@@ -1,0 +1,49 @@
+doctype 5
+html lang="fr"
+  head
+    meta http-equiv="content-type" content="text/html; charset=utf-8"
+
+    title stpvote
+
+    meta name="description" content="stpvote"
+    meta content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" name="viewport" /
+    meta name="google-site-verification" content="70ZCbtwfDLvY39retUW9MfZY-Pr_IDVscOqrrqvavto"
+
+    meta property="og:site_name" content="stpvote"
+    meta property="og:title" content="stpvote"
+    meta property="og:type" content="website"
+    meta property="og:url" content="http://stpvote.org"
+    meta property="og:description" content="La manière la plus simple pour se préparer à voter."
+    meta property="og:image" content="http://stpvote.org/#{image_path('og-image.png')}"
+
+    meta name="twitter:card" content="summary_large_image"
+    meta name="twitter:site" content="@wearemuxu"
+
+    meta name="twitter:widgets:theme" content="light"
+    meta name="twitter:widgets:link-color" content="#33CC33"
+    meta name="twitter:widgets:border-color" content="#33CC33"
+
+    link rel="canonical" href="http://stpvote.org"
+    link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"
+
+    = stylesheet_link_tag 'all'
+    link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet" /
+    = javascript_include_tag 'all'
+
+
+  body
+    = partial 'shared/header'
+    
+    = yield
+    
+    footer 
+      .wrapper
+        p = t 'footer.made'
+
+  javascript:
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-83226935-4', 'auto');
+    ga('send', 'pageview');

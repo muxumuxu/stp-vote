@@ -1,0 +1,9 @@
+fr:
+  header:
+    logo: |
+      stp<strong>vote</strong>
+  intro:
+    baseline: La manière la plus simple pour se préparer à voter.
+  footer:
+    navigation:
+      about-us: À propos de nous
