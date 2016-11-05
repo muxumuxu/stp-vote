@@ -6,7 +6,7 @@
   .menu  
     - t('menu.menu-item').each do |id, menu|
       = link_to "#{id}", class: "menu-item"
-        = image_tag "#{id}.svg"
+        = image_tag "#{id}.svg", height: "132px"
         h2 = menu[:title]
         p = menu[:description]
         span.cta = menu[:link]

@@ -119,14 +119,17 @@ footer {
     box-shadow: 0px 0px 0px 1px rgba(36, 34, 34, 0.04), 0px 1px 6px 0px rgba(0, 0, 0, 0.1);
     border-radius: 10px; }
     /* line 92, _common.sass */
+    .menu .menu-item:hover {
+      box-shadow: 0px 0px 0px 2px #F8E71C; }
+    /* line 94, _common.sass */
     .menu .menu-item h2 {
       margin: 12px 0 8px;
       padding: 0; }
-    /* line 95, _common.sass */
+    /* line 97, _common.sass */
     .menu .menu-item p {
       margin: 0 0 20px;
       color: rgba(0, 0, 0, 0.6); }
-    /* line 98, _common.sass */
+    /* line 100, _common.sass */
     .menu .menu-item .cta {
       display: block;
       border-radius: 5px;
@@ -137,17 +140,20 @@ footer {
       padding: 12px 0; }
 
 @media screen and (max-width: 900px) {
-  /* line 108, _common.sass */
+  /* line 109, _common.sass */
   header, footer {
     padding-left: 10px;
     padding-right: 10px; }
 
-  /* line 113, _common.sass */
+  /* line 114, _common.sass */
   nav ul li {
     padding: 0 6px; }
 
-  /* line 116, _common.sass */
+  /* line 117, _common.sass */
   .menu .menu-item {
     box-shadow: none;
     margin: 0 0 10px;
-    max-width: 100%; } }
+    max-width: 100%; }
+    /* line 121, _common.sass */
+    .menu .menu-item:hover {
+      box-shadow: none; } }
