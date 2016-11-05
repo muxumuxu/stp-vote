@@ -3,14 +3,14 @@ html lang="fr"
   head
     meta http-equiv="content-type" content="text/html; charset=utf-8"
 
-    title stpvote
+    title stp:vote | La manière la plus simple pour se préparer à voter.
 
-    meta name="description" content="stpvote"
+    meta name="description" content="La manière la plus simple pour se préparer à voter."
     meta content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0" name="viewport" /
     meta name="google-site-verification" content="70ZCbtwfDLvY39retUW9MfZY-Pr_IDVscOqrrqvavto"
 
-    meta property="og:site_name" content="stpvote"
-    meta property="og:title" content="stpvote"
+    meta property="og:site_name" content="stp:vote"
+    meta property="og:title" content="stp:vote"
     meta property="og:type" content="website"
     meta property="og:url" content="http://stpvote.org"
     meta property="og:description" content="La manière la plus simple pour se préparer à voter."
@@ -36,9 +36,7 @@ html lang="fr"
     
     = yield
     
-    footer 
-      .wrapper
-        p = t 'footer.made'
+    = partial 'shared/footer'
 
   javascript:
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

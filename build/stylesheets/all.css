@@ -1,0 +1,153 @@
+@font-face {
+  font-family: "SansSerifCss";
+  src: url("/fonts/Sans-Serif.woff") format("woff");
+  font-weight: normal; }
+@font-face {
+  font-family: "SansSerifCss";
+  src: url("/fonts/Sans-Serif-Light.woff") format("woff");
+  font-weight: 300; }
+/* line 1, _common.sass */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+/* line 5, _common.sass */
+html {
+  background: #F8E71C; }
+
+/* line 8, _common.sass */
+html, body {
+  margin: 0;
+  padding: 0;
+  font: 400 16px "Poppins", sans-serif;
+  color: #000000; }
+
+/* line 14, _common.sass */
+body {
+  margin: 0;
+  padding: 0;
+  background: white; }
+
+/* line 19, _common.sass */
+a {
+  color: rgba(0, 0, 0, 0.4);
+  text-decoration: none; }
+  /* line 22, _common.sass */
+  a:hover {
+    color: #F0343F; }
+
+/* line 26, _common.sass */
+nav ul {
+  padding: 16px 0 6px;
+  margin: 0;
+  list-style: none; }
+  /* line 30, _common.sass */
+  nav ul.sub-navigation {
+    padding: 0; }
+    /* line 32, _common.sass */
+    nav ul.sub-navigation a {
+      text-transform: none;
+      font-weight: 400; }
+  /* line 35, _common.sass */
+  nav ul li {
+    padding: 0 12px;
+    margin: 0;
+    display: inline; }
+    /* line 39, _common.sass */
+    nav ul li a {
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 700; }
+
+/* line 44, _common.sass */
+h2 {
+  font-size: 28px;
+  line-height: 34px; }
+
+/* line 48, _common.sass */
+p {
+  line-height: 22px; }
+
+/* line 51, _common.sass */
+.wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  position: relative; }
+
+/* line 56, _common.sass */
+header {
+  text-align: center; }
+
+/* line 59, _common.sass */
+footer {
+  text-align: center;
+  margin: 60px 0 0;
+  padding: 0 0 60px; }
+  /* line 63, _common.sass */
+  footer .logo-small {
+    width: 112px;
+    margin: 40px 0 10px; }
+  /* line 66, _common.sass */
+  footer .support {
+    display: block;
+    text-transform: uppercase;
+    font-size: 12px;
+    letter-spacing: 1px; }
+
+/* line 72, _common.sass */
+.intro {
+  text-align: center;
+  margin: 70px 0 80px; }
+  /* line 75, _common.sass */
+  .intro h1 {
+    max-width: 540px;
+    margin: 30px auto 0;
+    line-height: 42px; }
+
+/* line 80, _common.sass */
+.menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+  /* line 85, _common.sass */
+  .menu .menu-item {
+    max-width: 260px;
+    color: black;
+    display: inline-block;
+    padding: 30px 20px 20px;
+    box-shadow: 0px 0px 0px 1px rgba(36, 34, 34, 0.04), 0px 1px 6px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 10px; }
+    /* line 92, _common.sass */
+    .menu .menu-item h2 {
+      margin: 12px 0 8px;
+      padding: 0; }
+    /* line 95, _common.sass */
+    .menu .menu-item p {
+      margin: 0 0 20px;
+      color: rgba(0, 0, 0, 0.6); }
+    /* line 98, _common.sass */
+    .menu .menu-item .cta {
+      display: block;
+      border-radius: 5px;
+      color: white;
+      background: #F0343F;
+      font-weight: 700;
+      text-align: center;
+      padding: 12px 0; }
+
+@media screen and (max-width: 900px) {
+  /* line 108, _common.sass */
+  header, footer {
+    padding-left: 10px;
+    padding-right: 10px; }
+
+  /* line 113, _common.sass */
+  nav ul li {
+    padding: 0 6px; }
+
+  /* line 116, _common.sass */
+  .menu .menu-item {
+    box-shadow: none;
+    margin: 0 0 10px;
+    max-width: 100%; } }

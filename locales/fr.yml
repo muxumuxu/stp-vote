@@ -1,9 +1,40 @@
 fr:
   header:
-    logo: |
-      stp<strong>vote</strong>
+  navigation:
+    links:
+      inscription:
+        title: S'inscrire !
+      pourquoi:
+        title: Pourquoi ?
+      partager:
+        title: Partager !
+      aide:
+        title: Besoin d'aide ?
+  subnavigation:
+    links:
+      equipe:
+        title: Qui sommes-nous ?
+      partenaires:
+        title: Nos partenaires
+      confidentialite:
+        title: Politique de confidentialité
+      conditions:
+        title: Conditions du service
   intro:
     baseline: La manière la plus simple pour se préparer à voter.
+  menu:
+    menu-item:
+      pourquoi:
+        title: Beh… pourquoi voter ? 🇫🇷
+        description: Il y a temps de raisons, mais au final il s’agit surtout... de ne pas laisser ton futur t’échapper.
+        link: Découvrir les raisons
+      inscription:
+        title: Se préparer pour le jour J ! ✨
+        description: On t’accompagne pour t’inscrire et préparer tout ce dont tu auras besoin !
+        link: Se préparer !
+      partager:
+        title: Partager un max ! 😍
+        description: Pour avoir le plus fort impact (après avoir voté toi-même), incite tes amis à voter !
+        link: Partager !
   footer:
-    navigation:
-      about-us: À propos de nous
+    support: stpvote.org est inspiré et supporté par voteplz.org

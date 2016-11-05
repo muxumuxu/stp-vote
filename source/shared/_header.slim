@@ -1,3 +1,7 @@
 header
-  .wrapper
-    h1 = t 'header.logo'
+  nav
+    ul
+      - t('navigation.links').each do |id, navigation|
+        li
+          = link_to "#{id}"
+            = navigation[:title]

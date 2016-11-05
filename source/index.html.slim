@@ -1,4 +1,14 @@
 .wrapper
-  p = t 'intro.baseline'
+  .intro
+    = image_tag "logo.svg"
+    h1 = t 'intro.baseline'
+  
+  .menu  
+    - t('menu.menu-item').each do |id, menu|
+      = link_to "#{id}", class: "menu-item"
+        = image_tag "#{id}.svg"
+        h2 = menu[:title]
+        p = menu[:description]
+        span.cta = menu[:link]
 
   = partial 'shared/favicons'
