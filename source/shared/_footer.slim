@@ -5,6 +5,9 @@ footer
         li
           = link_to "#{id}"
             = navigation[:title]
+      li
+        = link_to t('navigation.aide.link')
+          = t 'navigation.aide.title'
 
     ul.sub-navigation
       - t('subnavigation.links').each do |id, subnavigation|

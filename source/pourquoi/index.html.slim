@@ -1,0 +1,11 @@
+.wrapper
+  h1 = t 'pourquoi.title'
+  = t 'pourquoi.intro'
+  ul
+    - t('pourquoi.menu-item').each do |id, pourquoi|
+      li
+        = pourquoi[:description]
+  = t 'pourquoi.conclusion'
+  = link_to "inscription"
+    = t 'navigation.links.inscription.title'
+  span = t 'pourquoi.help'

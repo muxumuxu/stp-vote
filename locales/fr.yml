@@ -2,14 +2,15 @@ fr:
   header:
   navigation:
     links:
-      inscription:
-        title: S'inscrire !
       pourquoi:
         title: Pourquoi ?
+      inscription:
+        title: S'inscrire !
       partager:
         title: Partager !
-      aide:
-        title: Besoin d'aide ?
+    aide:
+      title: Besoin d'aide ?
+      link: mailto:aide@stpvote.org
   subnavigation:
     links:
       equipe:
@@ -20,8 +21,10 @@ fr:
         title: Politique de confidentialité
       conditions:
         title: Conditions du service
+
   intro:
     baseline: La manière la plus simple pour se préparer à voter.
+
   menu:
     menu-item:
       pourquoi:
@@ -36,5 +39,26 @@ fr:
         title: Partager un max ! 😍
         description: Pour avoir le plus fort impact (après avoir voté toi-même), incite tes amis à voter !
         link: Partager !
+
+  pourquoi:
+    title: Ne confie pas le futur au hasard. 🙏
+    intro: |
+      <p>En tant que jeunes votants, nous allons vivre avec les choix que nous faisons aujourd'hui pour des décénies. Nous devons être ceux qui réalisons ces grandes décisions.</p>
+      <p>Our parents and grandparents vote in huge numbers, but they shouldn’t make all the decisions for us.</p>
+      <p>What kind of future do you want to live in?</p>
+    menu-item:
+      health:
+        description: What health care systems do you want in place for your kids?
+      climate:
+        description: How do you want our country and international community to handle environmental challenges?
+      social:
+        description: What social programs should we have in place for citizens and communities?
+      economy:
+        description: How can we get our economy to better support you?
+      education:
+        description: What should the education of the future look like?
+    conclusion: The 2012 election was decided by millennial turnout. And this election should be too. It’s up to you to vote and decide!
+    help: (Don’t worry, we’ll show you how!)
+
   footer:
     support: stpvote.org est inspiré et supporté par voteplz.org
