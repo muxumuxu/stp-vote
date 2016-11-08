@@ -14,7 +14,6 @@ html, body
 body
   margin: 0
   padding: 0
-  height: 100%
   background: white
 
 a
@@ -48,6 +47,7 @@ h2
 
 p
   line-height: 22px
+  color: rgba( $color-text, .6 )
 
 .wrapper
   max-width: 940px
@@ -100,7 +100,6 @@ footer
       padding: 0
     p
       margin: 0 0 20px
-      color: rgba( $color-text, .6 )
     .cta
       display: block
       border-radius: 5px
@@ -108,7 +107,36 @@ footer
       background: $color-link
       font-weight: 700
       text-align: center
-      padding: 12px 0
+      padding: 14px 0 12px
+
+.why
+  max-width: 740px
+  h1
+    font-size: 50px
+    line-height: 58px
+  p
+    font-size: 20px
+    line-height: 32px
+  ul
+    list-style: none
+    margin-left: 0
+    padding-left: 0
+    li
+      margin: 0 0 0 100px
+  .cta
+    border-radius: 5px
+    color: white
+    background: $color-link
+    font-weight: 700
+    font-size: 20px
+    text-align: center
+    padding: 16px 24px 14px
+    display: inline-block
+  .hint
+    color: rgba( $color-text, .6 )
+    display: block
+    margin: 10px 0 0
+
 @media screen and (max-width: 900px)
   header, footer
     padding-left: 10px

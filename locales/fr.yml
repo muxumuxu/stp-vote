@@ -41,24 +41,24 @@ fr:
         link: Partager !
 
   pourquoi:
-    title: Ne confie pas le futur au hasard. 🙏
+    title: Ne confie pas le futur au hasard. 🔮
     intro: |
       <p>En tant que jeunes votants, nous allons vivre avec les choix que nous faisons aujourd'hui pour des décénies. Nous devons être ceux qui réalisons ces grandes décisions.</p>
-      <p>Our parents and grandparents vote in huge numbers, but they shouldn’t make all the decisions for us.</p>
-      <p>What kind of future do you want to live in?</p>
+      <p>Nos parents et grand parents ont votés de nombreuses fois, mais ils ne devraient pas prendre toutes les décisiosn pour nous.</p>
+      <p>Quel futur souhaitons-nous vivre ?</p>
     menu-item:
       health:
-        description: What health care systems do you want in place for your kids?
+        description: Quel système de santé souhaite-tu pour tes enfants ?
       climate:
-        description: How do you want our country and international community to handle environmental challenges?
+        description: Comment souhaite-tu que ton pays et la communauté internationale s'occupe des questions climatiques ?
       social:
-        description: What social programs should we have in place for citizens and communities?
+        description: Quel vision de la société souhaites-tu ?
       economy:
-        description: How can we get our economy to better support you?
+        description: Comment souhaite-tu que l'économie te soutienne ?
       education:
-        description: What should the education of the future look like?
-    conclusion: The 2012 election was decided by millennial turnout. And this election should be too. It’s up to you to vote and decide!
-    help: (Don’t worry, we’ll show you how!)
+        description: Quel est le futur de l'éducation ?
+    conclusion: Il ne tient qu'a toi de voter et de décider !
+    help: (On te rassure on t'accompagne à chaque étape!)
 
   footer:
     support: stpvote.org est inspiré et supporté par voteplz.org
