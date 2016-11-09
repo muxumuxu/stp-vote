@@ -227,14 +227,18 @@ footer {
       margin-left: 0;
       margin-bottom: 0;
       padding-left: 0; }
-      /* line 178, _common.sass */
+      /* line 179, _common.sass */
+      .content ul.social li {
+        width: 100%;
+        margin-bottom: 60px; }
+      /* line 182, _common.sass */
       .content ul li {
         margin: 0;
         overflow: hidden; }
-        /* line 181, _common.sass */
+        /* line 185, _common.sass */
         .content ul li img {
           float: none;
           display: block; }
-        /* line 184, _common.sass */
+        /* line 188, _common.sass */
         .content ul li p {
           margin: 10px 0 40px; } }
