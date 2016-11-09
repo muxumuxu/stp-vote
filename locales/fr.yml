@@ -29,7 +29,7 @@ fr:
     menu-item:
       pourquoi:
         title: Beh… pourquoi voter ? 🇫🇷
-        description: Il y a temps de raisons, mais au final il s’agit surtout... de ne pas laisser ton futur t’échapper.
+        description: Il y a tant de raisons, mais au final il s’agit surtout... de ne pas laisser ton futur t’échapper.
         link: Découvrir les raisons
       inscription:
         title: Se préparer pour le jour J ! ✨
@@ -44,41 +44,45 @@ fr:
     title: Ne confie pas ton futur au hasard. 🔮
     intro: |
       <p>En tant que jeunes votants, nous allons vivre pour des décennies avec les choix que nous allons faire aujourd'hui. Nous devons être ceux qui décidons de notre avenir.</p>
-      <p>Nos parents et grand parents ont votés de nombreuses fois, mais ils ne devraient pas prendre toutes les décisions pour nous.</p>
+      <p>Nos parents et grand parents ont voté de nombreuses fois, mais ils ne devraient pas prendre toutes les décisions pour nous.</p>
       <p>Quel futur <i>souhaites-tu</i> vivre ?</p>
     menu-item:
       health:
-        description: Quel système de santé souhaite-tu transmettre aux générations suivantes ?
+        description: Quel système de santé souhaites-tu transmettre aux générations suivantes ?
       climate:
-        description: Quelle place les questions climatiques doivent elles avoir ?
+        description: Quelle place les questions climatiques doivent-elles avoir ?
       social:
         description: Quelle vision de la société pour les Français ?
       economy:
         description: Comment faire en sorte que l’économie soit au service des citoyens ?
       education:
         description: Comment développer l’éducation pour offrir sa chance à toutes et à tous ?
-    conclusion: Il ne tient qu'a toi de voter et de décider !
+    conclusion: Il ne tient qu'à toi de voter et de décider !
     help: (On te rassure, on t'accompagne à chaque étape!)
 
   partager:
     title: Partage un max ! 😍
-    intro: Pour avoir le plus fort impact (après avoir voté toi-même), incite tes amis à voter !
+    intro: |
+      <p>En tant que jeunes votants, nous allons vivre pour des décennies avec les choix que nous allons faire aujourd'hui. Nous devons être ceux qui décidons de notre avenir.</p>
+      <p>Pour avoir le plus fort impact (après avoir voté toi-même), incite tes amis à voter !</p>
     menu-item:
       twitter:
-        title: Tweet !
+        title: |
+          Tweet #stpvote !
         link: https://twitter.com/stpvote
       facebook:
-        title: Partage !
+        title: Partage stp:vote !
         link: http://fb.me/stpvote
       instagram:
-        title: Tag !
+        title: |
+          Tag #stpvote !
         link: https://www.instagram.com/stpvote/
 
   equipe:
     title: Notre mission est simple. 🙌🏾
     intro: |
       <p>On souhaite vraiment que tu votes... vraiment stp !</p>
-      <p>Notre but est de fournir les informations et les outils pour rendre le vote le plus simple et facile à accomplir. Nous sommes une organisation non partisane à but non lucratif basé à Bordeaux.</p>
+      <p>Notre but est de fournir les informations et les outils pour rendre le vote le plus simple et facile à accomplir. Nous sommes une organisation non partisane à but non lucratif basée à Bordeaux.</p>
     squad:
       title: L'équipe.
       intro: Les humains qui construisent stp:vote pour toi.
@@ -88,6 +92,11 @@ fr:
     press:
       title: Presse.
       intro: Vous souhaitez nous contacter pour un article ? Contactez-nous à <a href="#">presse@stpvote.org</a>
+    menu-item:
+      lucchaissac:
+        title: Luc Chaissac
+        url: https://dribbble.com/lucchaissac
+
 
   partenaires:
     title: Nos fantastiques partenaires !

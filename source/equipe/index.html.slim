@@ -4,6 +4,11 @@
 
   h2 = t 'equipe.squad.title'
   p = t 'equipe.squad.intro'
+  /! ul.team
+  /!    - t('equipe.menu-item').each do |id, equipe|
+  /!      li
+  /!        = link_to equipe[:link], target: "_blank", title: equipe[:title]
+
 
   h2 = t 'equipe.organisation.title'
   p = t 'equipe.organisation.intro'

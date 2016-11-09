@@ -26,96 +26,98 @@ html, body {
 body {
   margin: 0;
   padding: 0;
-  background: white; }
+  background: white;
+  display: block;
+  height: 100%; }
 
-/* line 19, _common.sass */
+/* line 21, _common.sass */
 a {
   color: rgba(0, 0, 0, 0.4);
   text-decoration: none; }
-  /* line 22, _common.sass */
+  /* line 24, _common.sass */
   a:hover {
     color: #F0343F; }
 
-/* line 26, _common.sass */
+/* line 28, _common.sass */
 nav ul {
   padding: 16px 0 6px;
   margin: 0;
   list-style: none; }
-  /* line 30, _common.sass */
+  /* line 32, _common.sass */
   nav ul.sub-navigation {
     padding: 0; }
-    /* line 32, _common.sass */
+    /* line 34, _common.sass */
     nav ul.sub-navigation a {
       text-transform: none;
       font-weight: 400; }
-  /* line 35, _common.sass */
+  /* line 37, _common.sass */
   nav ul li {
     padding: 0 12px;
     margin: 0;
     display: inline; }
-    /* line 39, _common.sass */
+    /* line 41, _common.sass */
     nav ul li a {
       text-transform: uppercase;
       font-size: 14px;
       font-weight: 700; }
 
-/* line 44, _common.sass */
+/* line 46, _common.sass */
 h2 {
   font-size: 28px;
   line-height: 34px; }
 
-/* line 48, _common.sass */
+/* line 50, _common.sass */
 p {
   line-height: 22px;
   color: rgba(0, 0, 0, 0.6); }
 
-/* line 52, _common.sass */
+/* line 54, _common.sass */
 .wrapper {
   max-width: 940px;
   margin: 0 auto;
   position: relative; }
 
-/* line 57, _common.sass */
+/* line 59, _common.sass */
 header {
   text-align: center; }
-  /* line 59, _common.sass */
+  /* line 61, _common.sass */
   header .logo {
     margin: 70px auto 0;
     display: block; }
 
-/* line 63, _common.sass */
+/* line 65, _common.sass */
 footer {
   text-align: center;
   margin: 60px 0 0;
   padding: 0 0 60px; }
-  /* line 67, _common.sass */
+  /* line 69, _common.sass */
   footer .logo-small {
     width: 112px;
     margin: 40px 0 10px; }
-  /* line 70, _common.sass */
+  /* line 72, _common.sass */
   footer .support {
     display: block;
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 1px; }
 
-/* line 76, _common.sass */
+/* line 78, _common.sass */
 .intro {
   text-align: center;
   margin: 0 0 80px; }
-  /* line 79, _common.sass */
+  /* line 81, _common.sass */
   .intro h1 {
     max-width: 540px;
     margin: 30px auto 0;
     line-height: 42px; }
 
-/* line 84, _common.sass */
+/* line 86, _common.sass */
 .menu {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between; }
-  /* line 89, _common.sass */
+  /* line 91, _common.sass */
   .menu .menu-item {
     max-width: 260px;
     color: black;
@@ -123,17 +125,17 @@ footer {
     padding: 30px 20px 20px;
     box-shadow: 0px 0px 0px 1px rgba(36, 34, 34, 0.04), 0px 1px 6px 0px rgba(0, 0, 0, 0.1);
     border-radius: 10px; }
-    /* line 96, _common.sass */
+    /* line 98, _common.sass */
     .menu .menu-item:hover {
       box-shadow: 0px 0px 0px 2px #F8E71C; }
-    /* line 98, _common.sass */
+    /* line 100, _common.sass */
     .menu .menu-item h2 {
       margin: 12px 0 8px;
       padding: 0; }
-    /* line 101, _common.sass */
+    /* line 103, _common.sass */
     .menu .menu-item p {
       margin: 0 0 20px; }
-    /* line 103, _common.sass */
+    /* line 105, _common.sass */
     .menu .menu-item .cta {
       display: block;
       border-radius: 5px;
@@ -143,58 +145,60 @@ footer {
       text-align: center;
       padding: 14px 0 12px; }
 
-/* line 112, _common.sass */
+/* line 114, _common.sass */
 .content {
   max-width: 640px; }
-  /* line 114, _common.sass */
+  /* line 116, _common.sass */
   .content h1 {
     font-size: 50px;
     line-height: 58px; }
-  /* line 117, _common.sass */
+  /* line 119, _common.sass */
   .content p + h2 {
     margin-top: 60px; }
-  /* line 119, _common.sass */
+  /* line 121, _common.sass */
   .content p {
     font-size: 20px;
     line-height: 32px; }
-    /* line 122, _common.sass */
+    /* line 124, _common.sass */
     .content p a {
       color: #F0343F; }
-  /* line 124, _common.sass */
+  /* line 126, _common.sass */
   .content ul {
     list-style: none;
     margin-left: 0;
     margin-bottom: 60px;
     padding-left: 0; }
-    /* line 129, _common.sass */
+    /* line 131, _common.sass */
     .content ul.social {
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
       margin-top: 40px;
       justify-content: space-between; }
-      /* line 135, _common.sass */
+      /* line 137, _common.sass */
       .content ul.social li {
         width: 30%; }
-        /* line 137, _common.sass */
+        /* line 139, _common.sass */
         .content ul.social li img {
           display: block;
           float: none;
           margin: auto; }
-        /* line 141, _common.sass */
+        /* line 143, _common.sass */
         .content ul.social li .cta {
-          display: block; }
-    /* line 143, _common.sass */
+          display: block;
+          font-size: 16px;
+          padding: 16px 0 14px; }
+    /* line 147, _common.sass */
     .content ul li {
       margin: 0;
       overflow: hidden; }
-      /* line 146, _common.sass */
+      /* line 150, _common.sass */
       .content ul li img {
         float: left; }
-      /* line 148, _common.sass */
+      /* line 152, _common.sass */
       .content ul li p {
         margin: 60px 0 0; }
-  /* line 150, _common.sass */
+  /* line 154, _common.sass */
   .content .cta {
     border-radius: 5px;
     color: white;
@@ -204,52 +208,52 @@ footer {
     text-align: center;
     padding: 16px 24px 14px;
     display: inline-block; }
-  /* line 159, _common.sass */
+  /* line 163, _common.sass */
   .content .hint {
     color: rgba(0, 0, 0, 0.5);
     display: block;
     margin: 20px 0 0; }
 
 @media screen and (max-width: 900px) {
-  /* line 165, _common.sass */
+  /* line 169, _common.sass */
   header, footer {
     padding-left: 10px;
     padding-right: 10px; }
 
-  /* line 170, _common.sass */
+  /* line 174, _common.sass */
   nav ul li {
     padding: 0 6px; }
 
-  /* line 173, _common.sass */
+  /* line 177, _common.sass */
   .menu .menu-item {
     box-shadow: none;
     margin: 0 0 10px;
     max-width: 100%; }
-    /* line 177, _common.sass */
+    /* line 181, _common.sass */
     .menu .menu-item:hover {
       box-shadow: none; }
 
-  /* line 179, _common.sass */
+  /* line 183, _common.sass */
   .content {
     padding: 0 16px; }
-    /* line 181, _common.sass */
+    /* line 185, _common.sass */
     .content ul {
       list-style: none;
       margin-left: 0;
       margin-bottom: 0;
       padding-left: 0; }
-      /* line 187, _common.sass */
+      /* line 191, _common.sass */
       .content ul.social li {
         width: 100%;
         margin-bottom: 60px; }
-      /* line 190, _common.sass */
+      /* line 194, _common.sass */
       .content ul li {
         margin: 0;
         overflow: hidden; }
-        /* line 193, _common.sass */
+        /* line 197, _common.sass */
         .content ul li img {
           float: none;
           display: block; }
-        /* line 196, _common.sass */
+        /* line 200, _common.sass */
         .content ul li p {
           margin: 10px 0 40px; } }
