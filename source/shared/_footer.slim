@@ -3,7 +3,7 @@ footer
     ul
       - t('navigation.links').each do |id, navigation|
         li
-          = link_to "#{id}"
+          = link_to "../#{id}"
             = navigation[:title]
       li
         = link_to t('navigation.aide.link')
@@ -12,7 +12,7 @@ footer
     ul.sub-navigation
       - t('subnavigation.links').each do |id, subnavigation|
         li
-          = link_to "#{id}"
+          = link_to "../#{id}"
             = subnavigation[:title]
   
   = image_tag "logo.svg", class: "logo-small"

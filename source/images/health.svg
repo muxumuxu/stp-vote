@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="132px" viewBox="0 0 156 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>pourquoi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.2918472,42.6596165 C-2.43061573,32.9006391 -2.43061573,17.0782105 7.2918472,7.31923307 C17.0143101,-2.43974436 32.7775371,-2.43974436 42.5,7.31923307 C52.2224629,-2.43974436 67.9856899,-2.43974436 77.7081528,7.31923307 C87.4306157,17.0782105 87.4306157,32.9006391 77.7081528,42.6596165 L47.4418997,73.0395401 C44.7125639,75.7791264 40.2842347,75.775913 37.5581003,73.0395401 L7.2918472,42.6596165 Z" id="path-1"></path>
+        <path d="M7.2918472,42.6596165 C-2.43061573,32.9006391 -2.43061573,17.0782105 7.2918472,7.31923307 C17.0143101,-2.43974436 32.7775371,-2.43974436 42.5,7.31923307 C52.2224629,-2.43974436 67.9856899,-2.43974436 77.7081528,7.31923307 C87.4306157,17.0782105 87.4306157,32.9006391 77.7081528,42.6596165 L47.4418997,73.0395401 C44.7125639,75.7791264 40.2842347,75.775913 37.5581003,73.0395401 L7.2918472,42.6596165 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="85" height="75.093025" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M77,55 L69.9912443,55 C68.8998975,55 68,55.8952581 68,56.999615 L68,63.000385 C68,64.1125667 68.8915104,65 69.9912443,65 L77,65 L77,72.0087557 C77,73.1001025 77.8952581,74 78.999615,74 L85.000385,74 C86.1125667,74 87,73.1084896 87,72.0087557 L87,65 L94.0087557,65 C95.1001025,65 96,64.1047419 96,63.000385 L96,56.999615 C96,55.8874333 95.1084896,55 94.0087557,55 L87,55 L87,47.9912443 C87,46.8998975 86.1047419,46 85.000385,46 L78.999615,46 C77.8874333,46 77,46.8915104 77,47.9912443 L77,55 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="28" height="28" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-206.000000, -633.000000)">
+            <g id="cards" transform="translate(206.000000, 633.000000)">
+                <g id="card">
+                    <g id="illustration">
+                        <rect id="Rectangle-4" fill="#F3F8FE" x="51" y="15" width="56" height="117" rx="28"></rect>
+                        <g id="heart" transform="translate(0.000000, 56.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <path d="M4,36 L22.0092049,36 C23.1086907,36 24.5735604,35.3117276 25.2766642,34.468003 L32.7233358,25.531997 C33.428418,24.6858984 34.5877307,24.6758903 35.3122559,25.5090942 L52.6877441,45.4909058 C53.412483,46.3243555 54.5629903,46.3119007 55.2703917,45.447299 L61.7296083,37.552701 C62.4312263,36.6951679 63.8958578,36 64.9973917,36 L72,36" id="Path-2" stroke="#1572EA" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)"></path>
+                            <g id="Combined-Shape" mask="url(#mask-2)" stroke-width="4" stroke="#1572EA">
+                                <use mask="url(#mask-4)" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                        <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-6)" stroke-width="4" fill="#1572EA" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

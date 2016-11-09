@@ -41,24 +41,38 @@ fr:
         link: Partager !
 
   pourquoi:
-    title: Ne confie pas le futur au hasard. 🔮
+    title: Ne confie pas ton futur au hasard. 🔮
     intro: |
-      <p>En tant que jeunes votants, nous allons vivre avec les choix que nous faisons aujourd'hui pour des décénies. Nous devons être ceux qui réalisons ces grandes décisions.</p>
-      <p>Nos parents et grand parents ont votés de nombreuses fois, mais ils ne devraient pas prendre toutes les décisiosn pour nous.</p>
-      <p>Quel futur souhaitons-nous vivre ?</p>
+      <p>En tant que jeunes votants, nous allons vivre pour des décennies avec les choix que nous allons faire aujourd'hui. Nous devons être ceux qui décidons de notre avenir.</p>
+      <p>Nos parents et grand parents ont votés de nombreuses fois, mais ils ne devraient pas prendre toutes les décisions pour nous.</p>
+      <p>Quel futur <i>souhaites-tu</i> vivre ?</p>
     menu-item:
       health:
-        description: Quel système de santé souhaite-tu pour tes enfants ?
+        description: Quel système de santé souhaite-tu transmettre aux générations suivantes ?
       climate:
-        description: Comment souhaite-tu que ton pays et la communauté internationale s'occupe des questions climatiques ?
+        description: Quelle place les questions climatiques doivent elles avoir ?
       social:
-        description: Quel vision de la société souhaites-tu ?
+        description: Quelle vision de la société pour les Français ?
       economy:
-        description: Comment souhaite-tu que l'économie te soutienne ?
+        description: Comment faire en sorte que l’économie soit au service des citoyens ?
       education:
-        description: Quel est le futur de l'éducation ?
+        description: Comment développer l’éducation pour offrir sa chance à toutes et à tous ?
     conclusion: Il ne tient qu'a toi de voter et de décider !
-    help: (On te rassure on t'accompagne à chaque étape!)
+    help: (On te rassure, on t'accompagne à chaque étape!)
+
+  partager:
+    title: Partager un max ! 😍
+    intro: Pour avoir le plus fort impact (après avoir voté toi-même), incite tes amis à voter !
+    menu-item:
+      twitter:
+        title: Tweet
+        link: tweet
+      facebook:
+        title: Facebook
+        link: facebook
+      instagram:
+        title: Instagram
+        link: Instagram
 
   footer:
     support: stpvote.org est inspiré et supporté par voteplz.org

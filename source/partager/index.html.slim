@@ -1,0 +1,9 @@
+.wrapper.content
+  h1 = t 'partager.title'
+  p = t 'partager.intro'
+  ul.social
+    - t('partager.menu-item').each do |id, partager|
+      li
+        = image_tag "#{id}.svg", height: "132px"
+        = link_to partager[:link], class: "cta"
+          = partager[:title]
