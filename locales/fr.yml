@@ -61,18 +61,38 @@ fr:
     help: (On te rassure, on t'accompagne à chaque étape!)
 
   partager:
-    title: Partager un max ! 😍
+    title: Partage un max ! 😍
     intro: Pour avoir le plus fort impact (après avoir voté toi-même), incite tes amis à voter !
     menu-item:
       twitter:
-        title: Tweet
-        link: tweet
+        title: Tweet !
+        link: https://twitter.com/stpvote
       facebook:
-        title: Facebook
-        link: facebook
+        title: Partage !
+        link: http://fb.me/stpvote
       instagram:
-        title: Instagram
-        link: Instagram
+        title: Tag !
+        link: https://www.instagram.com/stpvote/
+
+  equipe:
+    title: Notre mission est simple. 🙌🏾
+    intro: |
+      <p>On souhaite vraiment que tu votes... vraiment stp !</p>
+      <p>Notre but est de fournir les informations et les outils pour rendre le vote le plus simple et facile à accomplir. Nous sommes une organisation non partisane à but non lucratif basé à Bordeaux.</p>
+    squad:
+      title: L'équipe.
+      intro: Les humains qui construisent stp:vote pour toi.
+    organisation:
+      title: organisation.
+      intro: Todo
+    press:
+      title: Presse.
+      intro: Vous souhaitez nous contacter pour un article ? Contactez-nous à <a href="#">presse@stpvote.org</a>
+
+  partenaires:
+    title: Nos fantastiques partenaires !
+    intro: Nous sommes fiers de travailler avec ces entreprises et organisations qui partagent notre objectif d’aider l’ensemble des citoyens à voter. Rendre le voter simple est un effort de groupe !
+    link: Devenir partenaire
 
   footer:
     support: stpvote.org est inspiré et supporté par voteplz.org

@@ -5,5 +5,5 @@
     - t('partager.menu-item').each do |id, partager|
       li
         = image_tag "#{id}.svg", height: "132px"
-        = link_to partager[:link], class: "cta"
+        = link_to partager[:link], class: "cta", target: "_blank"
           = partager[:title]

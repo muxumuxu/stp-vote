@@ -1,2 +1,5 @@
 .wrapper.content
-  h1 Partenaires
+  h1 = t 'partenaires.title'
+  p = t 'partenaires.intro'
+  = link_to "mailto:partenaires@stpvote.org", class: "cta"
+    = t 'partenaires.link'
