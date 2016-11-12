@@ -138,6 +138,8 @@ footer
   p
     font-size: 20px
     line-height: 32px
+    span
+      color: black
     a
       color: $color-link
   ul
@@ -188,11 +190,26 @@ footer
       border-radius: 40px
       float: left
       margin: 0 10px 10px 0
+  .code
+    margin: 90px 0 0
+    .snippet
+      font-family: monospace
+      background: #ededed
+      border-radius: 10px
+      padding: 10px 26px 8px
+      color: #333
+      font-size: 18px
+      line-height: 24px
+      pre
+        white-space: pre-wrap
 
 @media screen and (max-width: 900px)
-  header, footer
+  header, footer, .intro
     padding-left: 10px
     padding-right: 10px
+  .flash
+    margin-left: -10px
+    margin-right: -10px
   nav
     ul
       li
@@ -210,6 +227,8 @@ footer
         box-shadow: none
   .content
     padding: 0 16px
+    h1
+      font-size: 40px
     ul
       list-style: none
       margin-left: 0

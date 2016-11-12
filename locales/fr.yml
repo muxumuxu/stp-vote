@@ -110,12 +110,19 @@ fr:
 
   partenaires:
     title: Nos fantastiques partenaires !
-    intro: Nous sommes fiers de travailler avec ces entreprises et organisations qui partagent notre objectif d’aider l’ensemble des citoyens à voter. Rendre le voter simple est un effort de groupe !
+    intro: Nous sommes fiers de travailler avec ces entreprises et organisations qui partagent notre objectif d’aider l’ensemble des citoyens à voter. Rendre le vote simple est un effort de groupe !
     link: Devenir partenaire
+    embed:
+      title: Ajouter un lien vers stpvote.org
+      description: |
+        <p>Vous souhaitez aider les visiteurs de votre site web à se préparer pour les élections de 2017 ?</p>
+        <p>Vous pouvez simplement ajouter ce bout de code :</p>
+      snippet: |
+        <pre><code class="">&lt;a href="http://stpvote.org/share" class="stpvote-share-button"&gt;stp:vote.org&lt;/a&gt;&lt;script async src="//platform.stpvote.org/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/code&gt;</code></pre>
 
   inscription:
     title: Se préparer !
-    intro: Nous avons développé un guide pratique pour que tu saches exactement quoi faire pour voter. Maintenant tu n’as plus d’excuses pour ne pas voter. 😉
+    intro: Nous avons regroupé un guide pratique pour que tu saches exactement quoi faire pour voter. Maintenant tu n’as plus d’excuses pour ne pas voter. <span>😉</span>
     menu-item:
       inscription18:
         title: Inscription d'office à 18 ans
