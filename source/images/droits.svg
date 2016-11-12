@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="92px" viewBox="0 0 156 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>droits</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="3" width="50" height="64" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="64" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="48" y="3" width="50" height="64" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="64" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="5" y="0" width="45" height="62"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="45" height="62" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="48" y="0" width="45" height="62"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="45" height="62" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <path d="M0,8.0011447 C0,3.5822345 3.58890267,0 8.00004048,0 L30,0 L30,14.5 C30,22.5081289 23.5089227,29 15.5052861,29 L14.4947139,29 C6.48950446,29 0,22.5098896 0,14.5 L0,8.0011447 Z" id="path-9"></path>
+        <rect id="path-11" x="0" y="0" width="9" height="18" rx="4.5"></rect>
+        <rect id="path-13" x="0" y="0" width="9" height="21" rx="4.5"></rect>
+        <rect id="path-15" x="0" y="0" width="9" height="21" rx="4.5"></rect>
+        <rect id="path-17" x="0" y="0" width="9" height="15" rx="4.5"></rect>
+        <path d="M0,9 L0,4.5 C0,2.0147186 2.02093863,0 4.50291726,0 L23,0 L23,4.5 C23,6.9852814 20.976621,9 18.5015042,9 L7.53466797,9" id="path-19"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-529.000000, -1062.000000)">
+            <g id="illustration" transform="translate(529.000000, 1062.000000)">
+                <g id="Group-6" transform="translate(29.000000, 25.000000)">
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-2)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-1"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-4)" stroke-width="4" fill="#F3F8FE" transform="translate(73.000000, 35.000000) scale(-1, 1) translate(-73.000000, -35.000000) " xlink:href="#path-3"></use>
+                    <use id="Rectangle-11" stroke="#1572EA" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <use id="Rectangle-11" stroke="#1572EA" mask="url(#mask-8)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-7"></use>
+                    <g id="Group-2" transform="translate(33.000000, 12.000000)">
+                        <g id="Combined-Shape-Clipped" transform="translate(0.000000, 10.000000)">
+                            <mask id="mask-10" fill="white">
+                                <use xlink:href="#path-9"></use>
+                            </mask>
+                            <g id="path-3"></g>
+                            <g id="Combined-Shape" mask="url(#mask-10)" stroke="#1572EA" stroke-width="4" fill="#FFFFFF">
+                                <path d="M0,8.0011447 C0,3.5822345 3.58890267,0 8.00004048,0 L30,0 L30,14.5 C30,22.5081289 23.5089227,29 15.5052861,29 L14.4947139,29 C6.48950446,29 0,22.5098896 0,14.5 L0,8.0011447 Z" id="path-3"></path>
+                            </g>
+                        </g>
+                        <g id="Rectangle-9-Clipped" transform="translate(0.000000, 3.000000)">
+                            <mask id="mask-12" fill="white">
+                                <use xlink:href="#path-11"></use>
+                            </mask>
+                            <g id="path-5"></g>
+                            <g id="Rectangle-9" mask="url(#mask-12)" stroke="#1572EA" stroke-width="4" fill="#FFFFFF">
+                                <rect id="path-5" x="0" y="0" width="9" height="18" rx="4.5"></rect>
+                            </g>
+                        </g>
+                        <g id="Rectangle-9-Clipped" transform="translate(7.000000, 0.000000)">
+                            <mask id="mask-14" fill="white">
+                                <use xlink:href="#path-13"></use>
+                            </mask>
+                            <g id="path-7"></g>
+                            <g id="Rectangle-9" mask="url(#mask-14)" stroke="#1572EA" stroke-width="4" fill="#FFFFFF">
+                                <rect id="path-7" x="0" y="0" width="9" height="21" rx="4.5"></rect>
+                            </g>
+                        </g>
+                        <g id="Rectangle-9-Clipped" transform="translate(14.000000, 2.000000)">
+                            <mask id="mask-16" fill="white">
+                                <use xlink:href="#path-15"></use>
+                            </mask>
+                            <g id="path-9"></g>
+                            <g id="Rectangle-9" mask="url(#mask-16)" stroke="#1572EA" stroke-width="4" fill="#FFFFFF">
+                                <rect id="path-9" x="0" y="0" width="9" height="21" rx="4.5"></rect>
+                            </g>
+                        </g>
+                        <g id="Rectangle-9-Clipped" transform="translate(21.000000, 5.000000)">
+                            <mask id="mask-18" fill="white">
+                                <use xlink:href="#path-17"></use>
+                            </mask>
+                            <g id="path-11"></g>
+                            <g id="Rectangle-9" mask="url(#mask-18)" stroke="#1572EA" stroke-width="4" fill="#FFFFFF">
+                                <rect id="path-11" x="0" y="0" width="9" height="15" rx="4.5"></rect>
+                            </g>
+                        </g>
+                        <g id="Rectangle-11-Clipped" transform="translate(0.000000, 14.000000)">
+                            <mask id="mask-20" fill="white">
+                                <use xlink:href="#path-19"></use>
+                            </mask>
+                            <g id="path-13"></g>
+                            <g id="Rectangle-11" mask="url(#mask-20)" stroke="#1572EA" stroke-width="4" fill="#FFFFFF">
+                                <path d="M0,9 L0,4.5 C0,2.0147186 2.02093863,0 4.50291726,0 L23,0 L23,4.5 C23,6.9852814 20.976621,9 18.5015042,9 L7.53466797,9" id="path-13"></path>
+                            </g>
+                        </g>
+                        <path d="M18,29.5 C18,25.3578644 14.6421356,22 10.5,22" id="Oval-3" stroke="#1572EA" stroke-width="2"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

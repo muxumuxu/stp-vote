@@ -1,8 +1,10 @@
 fr:
   header:
-  flash: Attention pour pouvoir voter en 2017, il faut avoir fait la démarche avant le 31 décembre 2016. <a href="inscription">S'inscire !</a>
+  flash: 🚨 Attention pour pouvoir voter en 2017, il faut avoir fait la démarche avant le 31 décembre 2016. <strong>S'inscire !</strong> 🚨
   navigation:
     links:
+      ../:
+        title: Stp:Vote
       pourquoi:
         title: Pourquoi ?
       inscription:
@@ -112,27 +114,27 @@ fr:
     link: Devenir partenaire
 
   inscription:
-    title: Se préparer pour le jour J ! ✨
+    title: Se préparer !
     intro: Nous avons développé un guide pratique pour que tu saches exactement quoi faire pour voter. Maintenant tu n’as plus d’excuses pour ne pas voter. 😉
     menu-item:
       inscription18:
         title: Inscription d'office à 18 ans
-        description: Todo
-      inscription:
+        url: https://www.service-public.fr/particuliers/vosdroits/F1961
+      inscriptionnew:
         title: Nouvelle inscription
-        description: Todo
+        url: https://www.service-public.fr/particuliers/vosdroits/R16396
       demenagement:
-        title: Déménagement
-        description: Todo
+        title: Suite à un déménagement
+        url: https://www.service-public.fr/particuliers/vosdroits/F1372
       procuration:
         title: Vote par procuration
-        description: Todo
+        url: https://www.service-public.fr/particuliers/vosdroits/F1604
       etranger:
-        title: Vote d'un Français à l'étranger
-        description: Todo
+        title: Français à l'étranger
+        url: https://www.service-public.fr/particuliers/vosdroits/F16904
       droits:
-        title: Vos droits
-        description: Todo
+        title: Droit de vote d'un citoyen
+        url: https://www.service-public.fr/particuliers/vosdroits/F1937
 
   footer:
     support: stpvote.org est inspiré et supporté par voteplz.org

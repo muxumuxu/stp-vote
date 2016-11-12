@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="156px" height="132px" viewBox="0 0 156 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
     <title>inscription</title>
     <desc>Created with Sketch.</desc>
     <defs>
@@ -22,8 +22,8 @@
         </mask>
     </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Desktop" transform="translate(-382.000000, -392.000000)">
-            <g id="cards" transform="translate(42.000000, 361.000000)">
+        <g id="Desktop" transform="translate(-382.000000, -107.000000)">
+            <g id="cards" transform="translate(42.000000, 76.000000)">
                 <g id="card" transform="translate(320.000000, 0.000000)">
                     <g id="illustration" transform="translate(20.000000, 31.000000)">
                         <use id="d-day" stroke="#1572EA" mask="url(#mask-2)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-1"></use>

@@ -25,16 +25,14 @@ a
     color: $color-link
 
 .flash
-  border: 1px solid $color-link
-  max-width: 940px
+  border-bottom: 1px solid $color-link
   margin: auto
   background: #fff9f7
   color: $color-link
-  border-radius: 4px
-  padding: 10px 10px
-  a
-    color: $color-link
-    font-weight: 700
+  padding: 14px 10px 12px
+  display: block
+  &:hover
+    text-decoration: underline
 
 nav
   ul
@@ -70,7 +68,6 @@ p
 
 header
   text-align: center
-  padding: 20px 0 0
   .logo
     margin: 70px auto 0
     display: block
@@ -101,6 +98,13 @@ footer
   flex-direction: row
   flex-wrap: wrap
   justify-content: space-between
+  &.medium
+    margin: 40px 0 0
+    .menu-item
+      max-width: 270px
+      margin-bottom: 20px
+      text-align: center
+      padding-bottom: 40px
   .menu-item
     max-width: 260px
     color: rgba( $color-text, 1 )
@@ -177,6 +181,13 @@ footer
     color: rgba( $color-text, .5 )
     display: block
     margin: 20px 0 0
+  .team
+    overflow: hidden
+    img
+      display: block
+      border-radius: 40px
+      float: left
+      margin: 0 10px 10px 0
 
 @media screen and (max-width: 900px)
   header, footer
@@ -187,6 +198,10 @@ footer
       li
         padding: 0 6px
   .menu
+    &.medium
+      .menu-item
+        max-width: 100%
+        width: 100%
     .menu-item
       box-shadow: none
       margin: 0 0 10px

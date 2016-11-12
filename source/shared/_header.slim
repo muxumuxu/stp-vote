@@ -1,5 +1,16 @@
 header
-  .flash = t 'flash'
+  = link_to "../inscription", class: "flash"
+    = t 'flash'
+  
+  nav
+    ul
+      - t('navigation.links').each do |id, navigation|
+        li
+          = link_to "../#{id}"
+            = navigation[:title]
+      li
+        = link_to t('navigation.aide.link')
+          = t 'navigation.aide.title'
   
   = link_to "../", class: "logo"
     = image_tag "logo.svg"

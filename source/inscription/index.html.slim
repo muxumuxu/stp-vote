@@ -1,8 +1,9 @@
 .wrapper.content
   h1 = t 'inscription.title'
   p = t 'inscription.intro'
-  ul
+  
+  .menu.medium
     - t('inscription.menu-item').each do |id, inscription|
-      li
+      = link_to inscription[:url], class: "menu-item", target: "_blank"
+        = image_tag "#{id}.svg", height: "92px"
         h2 = inscription[:title]
-        = inscription[:description]

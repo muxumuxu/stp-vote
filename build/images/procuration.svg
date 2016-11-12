@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="92px" viewBox="0 0 156 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>procuration</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="15" width="81" height="60" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="81" height="60" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="6" y="9" width="81" height="60" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="81" height="60" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M92,31.2857143 L92,15 L80,15 L80,31.2857143 L86,27 L92,31.2857143 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="16.2857143" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <circle id="path-7" cx="86" cy="10" r="10"></circle>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20" height="20" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-137.000000, -1062.000000)">
+            <g id="illustration" transform="translate(137.000000, 1062.000000)">
+                <g id="Group-2" transform="translate(30.000000, 17.000000)">
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-2)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-1"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-4)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <path d="M37.3361928,39.5824381 C37.3361928,39.5824381 49.6289478,40.0923995 53.4925062,38.7412136 C57.3560645,37.3900276 57.121567,34.8366888 49.8373116,38.4417348 C42.5530561,42.0467809 33.9388042,49.2773562 34.967203,47.8082151 C35.9956017,46.3390741 36.2187981,46.2394833 46.1015967,45.3890767 C55.9843953,44.53867 57.3073286,42.0828031 57.3073286,42.0828031" id="Path-2" stroke="#1572EA" stroke-width="2" stroke-linecap="round" transform="translate(46.095264, 42.299169) rotate(12.000000) translate(-46.095264, -42.299169) "></path>
+                    <rect id="Rectangle-7" fill="#1572EA" x="16" y="19" width="61" height="4" rx="2"></rect>
+                    <rect id="Rectangle-7" fill="#1572EA" opacity="0.116168478" x="16" y="25" width="61" height="34" rx="3"></rect>
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <use id="Oval-3" stroke="#1572EA" mask="url(#mask-8)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-7"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

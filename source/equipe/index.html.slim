@@ -8,7 +8,7 @@
     - t('equipe.menu-item').each do |id, equipe|
       .team-item
         = link_to equipe[:url], title: equipe[:title], target: "_blank"
-          = image_tag "#{id}.svg"
+          = image_tag "equipe/#{id}.jpg", width: "80px"
   
   p = t 'equipe.squad.contact'
 
