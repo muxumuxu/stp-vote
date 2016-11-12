@@ -1,2 +1,8 @@
 .wrapper.content
-  h1 Inscription
+  h1 = t 'inscription.title'
+  p = t 'inscription.intro'
+  ul
+    - t('inscription.menu-item').each do |id, inscription|
+      li
+        h2 = inscription[:title]
+        = inscription[:description]

@@ -1,11 +1,12 @@
 fr:
   header:
+  flash: Attention pour pouvoir voter en 2017, il faut avoir fait la démarche avant le 31 décembre 2016. <a href="inscription">S'inscire !</a>
   navigation:
     links:
       pourquoi:
         title: Pourquoi ?
       inscription:
-        title: S'inscrire !
+        title: Se préparer !
       partager:
         title: Partager !
     aide:
@@ -17,10 +18,8 @@ fr:
         title: Qui sommes-nous ?
       partenaires:
         title: Nos partenaires
-      confidentialite:
-        title: Politique de confidentialité
-      conditions:
-        title: Conditions du service
+      mentions:
+        title: Mention légales
 
   intro:
     baseline: La manière la plus simple pour se préparer à voter.
@@ -86,22 +85,54 @@ fr:
     squad:
       title: L'équipe.
       intro: Les humains qui construisent stp:vote pour toi.
+      contact: Des remarques, suggestions, envie de participer, contacte-nous à <a href="mailto:hello@stpvote.org">hello@stpvote.org</a>
     organisation:
-      title: organisation.
-      intro: Todo
+      title: L'organisation.
+      intro: <strong>Stp Vote</strong> association Loi 1901, [adresse + contact]
     press:
       title: Presse.
       intro: Vous souhaitez nous contacter pour un article ? Contactez-nous à <a href="#">presse@stpvote.org</a>
     menu-item:
       lucchaissac:
         title: Luc Chaissac
-        url: https://dribbble.com/lucchaissac
-
+        url: todo
+      fredcastagnac:
+        title: Fred Castagnac
+        url: todo
+      florentbarre:
+        title: Florent Barre
+        url: todo
+      audreylabuxiere:
+        title: Audrey Labuxiere
+        url: todo
 
   partenaires:
     title: Nos fantastiques partenaires !
     intro: Nous sommes fiers de travailler avec ces entreprises et organisations qui partagent notre objectif d’aider l’ensemble des citoyens à voter. Rendre le voter simple est un effort de groupe !
     link: Devenir partenaire
+
+  inscription:
+    title: Se préparer pour le jour J ! ✨
+    intro: Nous avons développé un guide pratique pour que tu saches exactement quoi faire pour voter. Maintenant tu n’as plus d’excuses pour ne pas voter. 😉
+    menu-item:
+      inscription18:
+        title: Inscription d'office à 18 ans
+        description: Todo
+      inscription:
+        title: Nouvelle inscription
+        description: Todo
+      demenagement:
+        title: Déménagement
+        description: Todo
+      procuration:
+        title: Vote par procuration
+        description: Todo
+      etranger:
+        title: Vote d'un Français à l'étranger
+        description: Todo
+      droits:
+        title: Vos droits
+        description: Todo
 
   footer:
     support: stpvote.org est inspiré et supporté par voteplz.org
