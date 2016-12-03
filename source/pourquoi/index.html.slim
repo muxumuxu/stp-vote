@@ -1,12 +1,13 @@
 .wrapper.content
   h1 = t 'pourquoi.title'
-  = t 'pourquoi.intro'
-  ul
+  ul.why
     - t('pourquoi.menu-item').each do |id, pourquoi|
       li
         = image_tag "#{id}.svg", height: "132px"
+        h2 = pourquoi[:title]
         p = pourquoi[:description]
-  p = t 'pourquoi.conclusion'
-  = link_to "inscription", class: "cta"
+  h2 = t 'pourquoi.conclusion.title'
+  p = t 'pourquoi.conclusion.description'
+  = link_to "/inscription", class: "cta"
     = t 'navigation.links.inscription.title'
   span.hint = t 'pourquoi.help'

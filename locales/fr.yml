@@ -42,30 +42,72 @@ fr:
         link: Partager !
 
   pourquoi:
-    title: Ne confie pas ton futur au hasard. 🔮
-    intro: |
-      <p>En tant que jeunes votants, nous allons vivre pour des décennies avec les choix que nous allons faire aujourd'hui. Nous devons être ceux qui décidons de notre avenir.</p>
-      <p>Nos parents et grand parents ont voté de nombreuses fois, mais ils ne devraient pas prendre toutes les décisions pour nous.</p>
-      <p>Quel futur <i>souhaites-tu</i> vivre ?</p>
+    title: |
+      Quelques bonnes raisons d’aller voter 🤔 :
     menu-item:
-      health:
-        description: Quel système de santé souhaites-tu transmettre aux générations suivantes ?
-      climate:
-        description: Quelle place les questions climatiques doivent-elles avoir ?
-      social:
-        description: Quelle vision de la société pour les Français ?
-      economy:
-        description: Comment faire en sorte que l’économie soit au service des citoyens ?
-      education:
-        description: Comment développer l’éducation pour offrir sa chance à toutes et à tous ?
-    conclusion: Il ne tient qu'à toi de voter et de décider !
+      time:
+        title: |
+          En moyenne voter prend 15min de notre précieux temps
+        description: |
+          (bureau de vote > isoloir > urne) Alors que si tu ne pas voter tu devras supporter le candidat élu et que tu n’as pas choisis pendant 2 628 000 minutes. 15 min vs 2 628 000 min.
+      generation:
+        title: |
+          Ne laisse pas tes parents / grands parents choisir !
+        description: |
+          Les retraités représentent 33% de la population française mais pèse pour 50% des votes exprimés ! outch !
+      places:
+        title: |
+          Il y a plus de 50 000 bureaux de vote en France.
+        description: |
+          Donc aucun des bureaux de vote n’est très loin de chez toi ! Avec Stp:vote, nous t’aiderons à trouver ton bureau de vote à l’approche de l’élection.
+      fail:
+        title: |
+          Hurler après les résultats, ca ne sert à rien.
+        description: |
+          No one gives a fuck anymore. C’est aussi la force de l’élection en démocratie. Ce qui fait foi c’est le suffrage et non la manifestation après élection.  Parce qu’une élection c’est le moment où chaque citoyen a la POSSIBILITÉ de s’exprimer anonyment et librement . . alors ARRÊTE DE HURLER APRES ET STP : VOTE AVANT !
+      president:
+        title: |
+          Une présidente ou un président, ca a quand même pas mal de pouvoirs !
+        description: |
+          On est souvent négatif et défaitiste lorsqu’on évoque notre pays la France. N’en demeure pas moins que nous sommes la 6ème puissance au monde (sur 193 pays reconnus par lONU). Aussi l’un des 8 pays au monde où le chef d'Etat peut déclencher l’arme nucléaire.Alors veux-tu vraiment laisser les autres choisir pour toi la/le personne avec de telles pouvoirs ?
+          Parmi les pouvoirs “extraordinaires” du président :
+          -  l’arme nucléaire
+          - chef des armées / déclarer la guerre de moins
+          - gracier et annuler une peine de justice individuelle
+          etc.
+      polls:
+        title: |
+          L’élection n’est pas jouée dans les sondages.
+        description: |
+          Tes choix ne doivent pas être influencés par les sondages.
+          Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42 millions de français en âge de voter ; et que le monde change :  nous individus sommes  plus volatiles, plus complexes. Les sondages ne gère pas la complexité de nos choix et de nos individualités. Alors Rien n’est jouer. Ne nous laissons pas voler l'élection par des statistiques ! Exprime toi ! Stp:Vote !
+      dignity:
+        title: |
+          Voter c’est aussi une question de dignité
+        description: |
+          "En votant ne croyez pas que la vie va  changer de façon spectaculaire, mais votre amour-propre sera plus grand, vous aurez fait votre choix et vous serez devenu citoyen dans votre pays."  Nelson Mandela dans Un long chemin vers la liberté. Il s’adresse alors aux électeurs qui voteront pour la première dans une élection non raciale au suffrage universel, 1994,  Afrique du Sud.
+
+    conclusion:
+      title: |
+        TL;DR
+      description: |
+        Ne pas voter ne sanctionne aucun candidat, il en avantage même certain. Ne pas voter ne sanctionne pas non plus le système,  la seule sanction est celle faite à notre système démocratique . Stp:Vote
     help: (On te rassure, on t'accompagne à chaque étape!)
 
   partager:
-    title: Partage un max ! 😍
+    title: Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨
+    stats:
+      french:
+        stat: 77%
+        description:
+          des Français ne savent pas encore s’ils iront voter. <small>(oct. 2016)</small>
+      students:
+        stat: 45%
+        description:
+          des étudiants ne pensent pas qu’ils iront voter. <small>(nov. 2016)</small>
     intro: |
-      <p>En tant que jeunes votants, nous allons vivre pour des décennies avec les choix que nous allons faire aujourd'hui. Nous devons être ceux qui décidons de notre avenir.</p>
-      <p>Pour avoir le plus fort impact (après avoir voté toi-même), incite tes amis à voter !</p>
+      <p>Alors partage, informe, diffuse et implique les gens autour de toi en agissant à ton échelle : amis, famille, communauté, lieu de travail.</p>
+      <p>Partage en dehors des Internets ! Tout le monde n’y a pas accès ! Partage autour de toi aussi !</pa>
     menu-item:
       twitter:
         title: |
@@ -121,11 +163,11 @@ fr:
         <pre><code class="">&lt;a href="http://stpvote.org/share" class="stpvote-share-button"&gt;stp:vote.org&lt;/a&gt;&lt;script async src="//platform.stpvote.org/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/code&gt;</code></pre>
 
   inscription:
-    title: Se préparer !
-    intro: Nous avons regroupé un guide pratique pour que tu saches exactement quoi faire pour voter. Maintenant tu n’as plus d’excuses pour ne pas voter. <span>😉</span>
+    title: Voter, ça s’apprend ! 🎓
+    intro: Ici on vous aide à accomplir votre devoir de citoyen.
     menu-item:
       inscription18:
-        title: Inscription d'office à 18 ans
+        title: J’ai 18ans cette année ou en 2017 (même si c’est en décembre oui !) j’aurais 18 ans.
         url: https://www.service-public.fr/particuliers/vosdroits/F1961
       inscriptionnew:
         title: Nouvelle inscription

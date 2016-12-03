@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="132px" viewBox="0 0 156 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>place</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="2" y="59" width="80" height="58" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="58" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="53" width="84" height="38" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="84" height="38" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="36" y="85" width="12" height="14" rx="4"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="14" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <path d="M50.3497558,70 C59.2267956,58.8021675 72,40.8111927 72,30 C72,13.4314575 58.5685425,0 42,0 C25.4314575,0 12,13.4314575 12,30 C12,40.8111927 24.7732044,58.8021675 33.6502442,70 L50.3497558,70 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="60" height="70" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-365.000000, -1276.000000)">
+            <g id="time" transform="translate(365.000000, 1276.000000)">
+                <circle id="Oval-7" fill="#F3F8FE" cx="85.5" cy="63.5" r="40.5"></circle>
+                <g id="Group-8" transform="translate(40.000000, 92.000000) rotate(-270.000000) translate(-40.000000, -92.000000) translate(39.000000, 62.000000)" fill="#1572EA" opacity="0.400000006">
+                    <rect id="Rectangle-15" x="0" y="0" width="2" height="3"></rect>
+                    <rect id="Rectangle-15" x="0" y="57" width="2" height="3"></rect>
+                </g>
+                <g id="Group-9" transform="translate(0.000000, 15.000000)">
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-2)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-1"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-4)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <rect id="Rectangle" fill="#1572EA" x="38" y="89" width="8" height="2"></rect>
+                    <rect id="d-day" fill="#1572EA" x="22" y="66" width="40" height="4" rx="2"></rect>
+                    <rect id="d-day" fill="#1572EA" x="0" y="81" width="83" height="2"></rect>
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-8)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-7"></use>
+                    <circle id="Oval-8" fill="#F3F8FE" cx="42" cy="30" r="21"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

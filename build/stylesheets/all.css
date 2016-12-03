@@ -193,36 +193,42 @@ footer {
     margin-bottom: 60px;
     padding-left: 0; }
     /* line 150, _common.sass */
+    .content ul.why {
+      margin-bottom: 0; }
+    /* line 152, _common.sass */
     .content ul.social {
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
       margin-top: 40px;
       justify-content: space-between; }
-      /* line 156, _common.sass */
+      /* line 158, _common.sass */
       .content ul.social li {
         width: 30%; }
-        /* line 158, _common.sass */
+        /* line 160, _common.sass */
         .content ul.social li img {
           display: block;
           float: none;
           margin: auto; }
-        /* line 162, _common.sass */
+        /* line 164, _common.sass */
         .content ul.social li .cta {
           display: block;
           font-size: 16px;
           padding: 16px 0 14px; }
-    /* line 166, _common.sass */
+    /* line 168, _common.sass */
     .content ul li {
       margin: 0;
       overflow: hidden; }
-      /* line 169, _common.sass */
-      .content ul li img {
-        float: left; }
       /* line 171, _common.sass */
+      .content ul li img {
+        display: block; }
+      /* line 173, _common.sass */
+      .content ul li h2 {
+        margin: 30px 0 10px; }
+      /* line 175, _common.sass */
       .content ul li p {
-        margin: 60px 0 0; }
-  /* line 173, _common.sass */
+        margin: 0 0 60px; }
+  /* line 177, _common.sass */
   .content .cta {
     border-radius: 5px;
     color: white;
@@ -232,24 +238,24 @@ footer {
     text-align: center;
     padding: 16px 24px 14px;
     display: inline-block; }
-  /* line 182, _common.sass */
+  /* line 186, _common.sass */
   .content .hint {
     color: rgba(0, 0, 0, 0.5);
     display: block;
     margin: 20px 0 0; }
-  /* line 186, _common.sass */
+  /* line 190, _common.sass */
   .content .team {
     overflow: hidden; }
-    /* line 188, _common.sass */
+    /* line 192, _common.sass */
     .content .team img {
       display: block;
       border-radius: 40px;
       float: left;
       margin: 0 10px 10px 0; }
-  /* line 193, _common.sass */
+  /* line 197, _common.sass */
   .content .code {
     margin: 90px 0 0; }
-    /* line 195, _common.sass */
+    /* line 199, _common.sass */
     .content .code .snippet {
       font-family: monospace;
       background: #ededed;
@@ -258,62 +264,62 @@ footer {
       color: #333;
       font-size: 18px;
       line-height: 24px; }
-      /* line 203, _common.sass */
+      /* line 207, _common.sass */
       .content .code .snippet pre {
         white-space: pre-wrap; }
 
 @media screen and (max-width: 900px) {
-  /* line 207, _common.sass */
+  /* line 211, _common.sass */
   header, footer, .intro {
     padding-left: 10px;
     padding-right: 10px; }
 
-  /* line 210, _common.sass */
+  /* line 214, _common.sass */
   .flash {
     margin-left: -10px;
     margin-right: -10px; }
 
-  /* line 215, _common.sass */
+  /* line 219, _common.sass */
   nav ul li {
     padding: 0 6px; }
 
-  /* line 219, _common.sass */
+  /* line 223, _common.sass */
   .menu.medium .menu-item {
     max-width: 100%;
     width: 100%; }
-  /* line 222, _common.sass */
+  /* line 226, _common.sass */
   .menu .menu-item {
     box-shadow: none;
     margin: 0 0 10px;
     max-width: 100%; }
-    /* line 226, _common.sass */
+    /* line 230, _common.sass */
     .menu .menu-item:hover {
       box-shadow: none; }
 
-  /* line 228, _common.sass */
+  /* line 232, _common.sass */
   .content {
     padding: 0 16px; }
-    /* line 230, _common.sass */
+    /* line 234, _common.sass */
     .content h1 {
       font-size: 40px; }
-    /* line 232, _common.sass */
+    /* line 236, _common.sass */
     .content ul {
       list-style: none;
       margin-left: 0;
       margin-bottom: 0;
       padding-left: 0; }
-      /* line 238, _common.sass */
+      /* line 242, _common.sass */
       .content ul.social li {
         width: 100%;
         margin-bottom: 60px; }
-      /* line 241, _common.sass */
+      /* line 245, _common.sass */
       .content ul li {
         margin: 0;
         overflow: hidden; }
-        /* line 244, _common.sass */
+        /* line 248, _common.sass */
         .content ul li img {
           float: none;
           display: block; }
-        /* line 247, _common.sass */
+        /* line 251, _common.sass */
         .content ul li p {
           margin: 10px 0 40px; } }
