@@ -190,15 +190,19 @@ footer {
     .content p a {
       color: #F0343F; }
   /* line 147, _common.sass */
+  .content .carte-electeur {
+    position: relative;
+    left: -120px; }
+  /* line 150, _common.sass */
   .content ul {
     list-style: none;
     margin-left: 0;
     margin-bottom: 60px;
     padding-left: 0; }
-    /* line 152, _common.sass */
+    /* line 155, _common.sass */
     .content ul.why {
       margin-bottom: 0; }
-    /* line 154, _common.sass */
+    /* line 157, _common.sass */
     .content ul.stats {
       display: flex;
       flex-direction: row;
@@ -209,57 +213,57 @@ footer {
       border-top: 1px solid #ededed;
       border-bottom: 1px solid #ededed;
       padding: 70px 0 30px; }
-      /* line 164, _common.sass */
+      /* line 167, _common.sass */
       .content ul.stats li {
         max-width: 200px;
         padding: 0 50px; }
-        /* line 167, _common.sass */
+        /* line 170, _common.sass */
         .content ul.stats li strong {
           display: block;
           color: #F0343F;
           line-height: 60px;
           font-size: 60px; }
-        /* line 172, _common.sass */
+        /* line 175, _common.sass */
         .content ul.stats li p {
           margin-bottom: 20px; }
-          /* line 174, _common.sass */
+          /* line 177, _common.sass */
           .content ul.stats li p small {
             display: block;
             font-size: 12px; }
-    /* line 177, _common.sass */
+    /* line 180, _common.sass */
     .content ul.social {
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
       margin-top: 70px;
       justify-content: space-between; }
-      /* line 183, _common.sass */
+      /* line 186, _common.sass */
       .content ul.social li {
         width: 30%; }
-        /* line 185, _common.sass */
+        /* line 188, _common.sass */
         .content ul.social li img {
           display: block;
           float: none;
           margin: auto; }
-        /* line 189, _common.sass */
+        /* line 192, _common.sass */
         .content ul.social li .cta {
           display: block;
           font-size: 16px;
           padding: 16px 0 14px; }
-    /* line 193, _common.sass */
+    /* line 196, _common.sass */
     .content ul li {
       margin: 0;
       overflow: hidden; }
-      /* line 196, _common.sass */
+      /* line 199, _common.sass */
       .content ul li img {
         display: block; }
-      /* line 198, _common.sass */
+      /* line 201, _common.sass */
       .content ul li h2 {
         margin: 30px 0 10px; }
-      /* line 200, _common.sass */
+      /* line 203, _common.sass */
       .content ul li p {
         margin: 0 0 60px; }
-  /* line 202, _common.sass */
+  /* line 205, _common.sass */
   .content .cta {
     border-radius: 5px;
     color: white;
@@ -269,24 +273,24 @@ footer {
     text-align: center;
     padding: 16px 24px 14px;
     display: inline-block; }
-  /* line 211, _common.sass */
+  /* line 214, _common.sass */
   .content .hint {
     color: rgba(0, 0, 0, 0.5);
     display: block;
     margin: 20px 0 0; }
-  /* line 215, _common.sass */
+  /* line 218, _common.sass */
   .content .team {
     overflow: hidden; }
-    /* line 217, _common.sass */
+    /* line 220, _common.sass */
     .content .team img {
       display: block;
       border-radius: 40px;
       float: left;
       margin: 0 10px 10px 0; }
-  /* line 222, _common.sass */
+  /* line 225, _common.sass */
   .content .code {
     margin: 90px 0 0; }
-    /* line 224, _common.sass */
+    /* line 227, _common.sass */
     .content .code .snippet {
       font-family: monospace;
       background: #ededed;
@@ -295,62 +299,66 @@ footer {
       color: #333;
       font-size: 18px;
       line-height: 24px; }
-      /* line 232, _common.sass */
+      /* line 235, _common.sass */
       .content .code .snippet pre {
         white-space: pre-wrap; }
 
 @media screen and (max-width: 900px) {
-  /* line 236, _common.sass */
+  /* line 239, _common.sass */
   header, footer, .intro {
     padding-left: 10px;
     padding-right: 10px; }
 
-  /* line 239, _common.sass */
+  /* line 242, _common.sass */
   .flash {
     margin-left: -10px;
     margin-right: -10px; }
 
-  /* line 244, _common.sass */
+  /* line 247, _common.sass */
   nav ul li {
     padding: 0 6px; }
 
-  /* line 248, _common.sass */
+  /* line 251, _common.sass */
   .menu.medium .menu-item {
     max-width: 100%;
     width: 100%; }
-  /* line 251, _common.sass */
+  /* line 254, _common.sass */
   .menu .menu-item {
     box-shadow: none;
     margin: 0 0 10px;
     max-width: 100%; }
-    /* line 255, _common.sass */
+    /* line 258, _common.sass */
     .menu .menu-item:hover {
       box-shadow: none; }
 
-  /* line 257, _common.sass */
+  /* line 260, _common.sass */
   .content {
     padding: 0 16px; }
-    /* line 259, _common.sass */
+    /* line 262, _common.sass */
     .content h1 {
       font-size: 40px; }
-    /* line 261, _common.sass */
+    /* line 264, _common.sass */
+    .content .carte-electeur {
+      width: 100%;
+      left: 0; }
+    /* line 267, _common.sass */
     .content ul {
       list-style: none;
       margin-left: 0;
       margin-bottom: 0;
       padding-left: 0; }
-      /* line 267, _common.sass */
+      /* line 273, _common.sass */
       .content ul.social li {
         width: 100%;
         margin-bottom: 60px; }
-      /* line 270, _common.sass */
+      /* line 276, _common.sass */
       .content ul li {
         margin: 0;
         overflow: hidden; }
-        /* line 273, _common.sass */
+        /* line 279, _common.sass */
         .content ul li img {
           float: none;
           display: block; }
-        /* line 276, _common.sass */
+        /* line 282, _common.sass */
         .content ul li p {
           margin: 10px 0 40px; } }
