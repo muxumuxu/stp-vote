@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="132px" viewBox="0 0 156 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>18-plus</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,92.0048815 C0,90.897616 0.897309287,90 1.99175337,90 L100.008247,90 C101.108262,90 102,90.8938998 102,92.0048815 L102,92.9951185 C102,94.102384 101.102691,95 100.008247,95 L1.99175337,95 C0.89173836,95 0,94.1061002 0,92.9951185 L0,92.0048815 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="102" height="5" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <path d="M10,60.9978926 C10,58.7899175 11.7889462,57 13.9966302,57 L88.0033698,57 C90.2106477,57 92,58.7837733 92,60.9978926 L92,88.0021074 C92,90.2100825 90.2110538,92 88.0033698,92 L13.9966302,92 C11.7893523,92 10,90.2162267 10,88.0021074 L10,60.9978926 Z" id="path-3"></path>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="82" height="35" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <path d="M20,38.0028165 C20,35.792122 21.7886753,34 23.9964277,34 L78.0035723,34 C80.2107384,34 82,35.7979383 82,38.0028165 L82,54.9971835 C82,57.207878 80.2113247,59 78.0035723,59 L23.9964277,59 C21.7892616,59 20,57.2020617 20,54.9971835 L20,38.0028165 Z" id="path-5"></path>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="62" height="25" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <path d="M47,15.991155 C47,14.8914705 47.8867064,14 48.9981014,14 L53.0018986,14 C54.1054196,14 55,14.8896739 55,15.991155 L55,34.008845 C55,35.1085295 54.1132936,36 53.0018986,36 L48.9981014,36 C47.8945804,36 47,35.1103261 47,34.008845 L47,15.991155 Z" id="path-7"></path>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="22" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <path d="M51,14.5454545 C53.7614237,14.5454545 56,12.3068783 56,9.54545455 C56,6.7840308 51,0 51,0 C51,0 46,6.7840308 46,9.54545455 C46,12.3068783 48.2385763,14.5454545 51,14.5454545 Z" id="path-9"></path>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="14.5454545" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <path d="M45,33.0048815 C45,31.897616 45.9019504,31 47.0085302,31 L54.9914698,31 C56.1007504,31 57,31.8938998 57,33.0048815 L57,33.9951185 C57,35.102384 56.0980496,36 54.9914698,36 L47.0085302,36 C45.8992496,36 45,35.1061002 45,33.9951185 L45,33.0048815 Z" id="path-11"></path>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="5" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <path d="M19,43.9973917 C19,42.8942627 19.9047241,42 21.0032986,42 L80.9967014,42 C82.1030927,42 83,42.8958578 83,43.9973917 L83,49.0026083 C83,50.1057373 82.0952759,51 80.9967014,51 L21.0032986,51 C19.8969073,51 19,50.1041422 19,49.0026083 L19,43.9973917 Z" id="path-13"></path>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="64" height="9" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <path d="M11,71 L20.3007959,76.8666559 C22.1686952,78.0448693 25.366747,78.3863411 27.4501967,77.6270394 L41.2439024,72.6 L49.4386384,77.079789 C51.3785834,78.1402922 54.6453579,78.4150764 56.724717,77.6971503 L71.4878049,72.6 L77.6526551,75.6331063 C79.6360462,76.6089347 82.7469119,76.4140258 84.5877484,75.2064371 L91,71" id="path-15"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-16">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="-2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="-2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0823529412   0 0 0 0 0.447058824   0 0 0 0 0.917647059  0 0 0 0.125481205 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-17" cx="10" cy="88" r="4"></circle>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="8" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <circle id="path-19" cx="24" cy="88" r="4"></circle>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="8" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+        <circle id="path-21" cx="20" cy="56" r="3"></circle>
+        <mask id="mask-22" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6" height="6" fill="white">
+            <use xlink:href="#path-21"></use>
+        </mask>
+        <circle id="path-23" cx="30" cy="56" r="3"></circle>
+        <mask id="mask-24" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6" height="6" fill="white">
+            <use xlink:href="#path-23"></use>
+        </mask>
+        <circle id="path-25" cx="72" cy="56" r="3"></circle>
+        <mask id="mask-26" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6" height="6" fill="white">
+            <use xlink:href="#path-25"></use>
+        </mask>
+        <circle id="path-27" cx="82" cy="56" r="3"></circle>
+        <mask id="mask-28" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="6" height="6" fill="white">
+            <use xlink:href="#path-27"></use>
+        </mask>
+        <circle id="path-29" cx="40" cy="88" r="4"></circle>
+        <mask id="mask-30" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="8" fill="white">
+            <use xlink:href="#path-29"></use>
+        </mask>
+        <circle id="path-31" cx="62" cy="88" r="4"></circle>
+        <mask id="mask-32" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="8" fill="white">
+            <use xlink:href="#path-31"></use>
+        </mask>
+        <circle id="path-33" cx="79" cy="88" r="4"></circle>
+        <mask id="mask-34" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="8" fill="white">
+            <use xlink:href="#path-33"></use>
+        </mask>
+        <circle id="path-35" cx="92" cy="88" r="4"></circle>
+        <mask id="mask-36" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="8" height="8" fill="white">
+            <use xlink:href="#path-35"></use>
+        </mask>
+        <circle id="path-37" cx="51" cy="67" r="21"></circle>
+        <mask id="mask-38" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="42" height="42" fill="white">
+            <use xlink:href="#path-37"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-215.000000, -1829.000000)">
+            <g id="18-plus" transform="translate(215.000000, 1829.000000)">
+                <circle id="Oval-7" fill="#F3F8FE" cx="74.5" cy="63.5" r="40.5"></circle>
+                <g id="Group-5" transform="translate(2.000000, 34.000000)">
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-2)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-4)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-8)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-7"></use>
+                    <use id="Oval-12" stroke="#1572EA" mask="url(#mask-10)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-9"></use>
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-12)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-11"></use>
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-14)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-13"></use>
+                    <g id="Path-5">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                        <use stroke="#1572EA" stroke-width="2" xlink:href="#path-15"></use>
+                    </g>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-18)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-17"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-20)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-19"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-22)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-21"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-24)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-23"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-26)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-25"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-28)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-27"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-30)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-29"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-32)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-31"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-34)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-33"></use>
+                    <use id="Oval-11" stroke="#1572EA" mask="url(#mask-36)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-35"></use>
+                    <use id="Oval-5" stroke="#1572EA" mask="url(#mask-38)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-37"></use>
+                    <path d="M43.056,77 L43.056,60.646 L40.924,60.646 L40.924,58.54 L45.37,58.54 L45.37,77 L43.056,77 Z M59.306,68.875 C58.5086627,68.2423302 57.4643398,67.926 56.173,67.926 C54.8816602,67.926 53.8286707,68.2423302 53.014,68.875 C52.1993293,69.5076698 51.792,70.4263273 51.792,71.631 C51.792,72.8356727 52.1863294,73.7846632 52.975,74.478 C53.7636706,75.1713368 54.8253267,75.518 56.16,75.518 C57.4946733,75.518 58.5519961,75.1670035 59.332,74.465 C60.1120039,73.7629965 60.502,72.814006 60.502,71.618 C60.502,70.421994 60.1033373,69.5076698 59.306,68.875 Z M59.007,60.321 C58.3223299,59.7403304 57.3776727,59.45 56.173,59.45 C54.9683273,59.45 54.0193368,59.7403304 53.326,60.321 C52.6326632,60.9016696 52.286,61.6946616 52.286,62.7 C52.286,63.7053384 52.6456631,64.5156636 53.365,65.131 C54.0843369,65.7463364 55.0159943,66.054 56.16,66.054 C57.3040057,66.054 58.2356631,65.7463364 58.955,65.131 C59.6743369,64.5156636 60.034,63.7053384 60.034,62.7 C60.034,61.6946616 59.6916701,60.9016696 59.007,60.321 Z M50.05,62.544 C50.05,61.0706593 50.5829947,59.8530048 51.649,58.891 C52.7150053,57.9289952 54.2229903,57.448 56.173,57.448 C58.1230098,57.448 59.6266614,57.9333285 60.684,58.904 C61.7413386,59.8746715 62.27,61.0966593 62.27,62.57 C62.27,63.5753384 62.0100026,64.4549962 61.49,65.209 C60.9699974,65.9630038 60.2940042,66.5219982 59.462,66.886 C60.4500049,67.215335 61.2473303,67.8089957 61.854,68.667 C62.4606697,69.5250043 62.764,70.551994 62.764,71.748 C62.764,73.4986754 62.1573394,74.8983281 60.944,75.947 C59.7306606,76.9956719 58.1360099,77.52 56.16,77.52 C54.1839901,77.52 52.5893394,76.9956719 51.376,75.947 C50.1626606,74.8983281 49.556,73.4986754 49.556,71.748 C49.556,70.551994 49.8593303,69.5250043 50.466,68.667 C51.0726697,67.8089957 51.8786616,67.215335 52.884,66.886 C50.9946572,65.9846622 50.05,64.5373433 50.05,62.544 Z" id="18" fill="#1572EA"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

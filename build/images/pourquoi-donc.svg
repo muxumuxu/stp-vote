@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="92px" viewBox="0 0 156 92" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>droits</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="2" y="6" width="80" height="58" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="58" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="0" width="84" height="38" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="84" height="38" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="36" y="32" width="12" height="14" rx="4"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="14" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-706.000000, -1062.000000)">
+            <g id="illustration" transform="translate(706.000000, 1062.000000)">
+                <g id="Group-9" transform="translate(36.000000, 28.000000)">
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-2)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-1"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-4)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <rect id="Rectangle" fill="#1572EA" x="38" y="36" width="8" height="2"></rect>
+                    <rect id="d-day" fill="#1572EA" x="22" y="13" width="40" height="4" rx="2"></rect>
+                    <rect id="d-day" fill="#1572EA" x="0" y="28" width="83" height="2"></rect>
+                </g>
+                <path d="M72.2956777,38.8140809 C72.2956777,37.4011838 72.7785594,36.2118641 73.7443372,35.2460863 C74.710115,34.2803085 75.8994346,33.7974269 77.3123318,33.7974269 C78.7252289,33.7974269 79.9145486,34.2803085 80.8803264,35.2460863 C81.8461042,36.2118641 82.3289858,37.4011838 82.3289858,38.8140809 C82.3289858,40.2269781 81.8461042,41.4162977 80.8803264,42.3820755 C79.9145486,43.3478533 78.7252289,43.830735 77.3123318,43.830735 C75.8994346,43.830735 74.710115,43.3478533 73.7443372,42.3820755 C72.7785594,41.4162977 72.2956777,40.2269781 72.2956777,38.8140809 Z M80.3974399,3 C84.2963206,3 87.4439936,4.03730133 89.8405533,6.11193512 C92.2371131,8.18656891 93.435375,11.0570321 93.435375,14.7234108 C93.435375,18.3897894 92.4070159,21.0366963 90.3502669,22.6642107 C88.2935178,24.2917252 85.3157476,25.1412392 81.4168669,25.2127783 L81.4168669,29.3099134 L72.7785642,29.3099134 L72.7785642,19.2571783 L76.3733858,19.2571783 C79.1634106,19.2571783 81.2201287,18.9352572 82.543602,18.2914053 C83.8670753,17.6475535 84.528802,16.4135226 84.528802,14.5892756 C84.528802,13.373111 84.1800542,12.3894632 83.482548,11.6383027 C82.7850418,10.8871422 81.8192785,10.5115675 80.5852291,10.5115675 C79.3511797,10.5115675 78.3854163,10.8781999 77.6879102,11.6114756 C76.990404,12.3447514 76.6416561,13.3373414 76.6416561,14.5892756 L68.0033534,14.5892756 C67.9318143,11.2627077 69.0048847,8.49955152 71.2225967,6.29972431 C73.4403086,4.0998971 76.4985591,3 80.3974399,3 Z" id="?" fill="#1572EA"></path>
+            </g>
+        </g>
+    </g>
+</svg>

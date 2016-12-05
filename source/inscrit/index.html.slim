@@ -1,0 +1,10 @@
+.wrapper.content
+  h1 = t 'inscrit.title'
+  p = t 'inscrit.introduction'
+  = image_tag 'carte-electeur.svg'
+  ul.why
+    - t('inscrit.menu-item').each do |id, inscrit|
+      li
+        = image_tag "#{id}.svg", height: "132px"
+        h2 = inscrit[:title]
+        = inscrit[:description]

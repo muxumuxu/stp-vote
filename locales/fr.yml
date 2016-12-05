@@ -94,6 +94,50 @@ fr:
         Ne pas voter ne sanctionne aucun candidat, il en avantage même certain. Ne pas voter ne sanctionne pas non plus le système,  la seule sanction est celle faite à notre système démocratique . Stp:Vote
     help: (On te rassure, on t'accompagne à chaque étape!)
 
+  droits:
+    title: |
+      Ai-je le droit d'aller voter ? 🤔
+    menu-item:
+      18-plus:
+        title: |
+          J’ai 18ans cette année ou en 2017 (même si c’est en décembre oui !) j’aurais 18 ans.
+        description: |
+          Tu peux voter. Inscription auto.
+      18-moins:
+        title: |
+          J’ai moins de 18 ans.  2017 n’est pas l’année de mes 18 ans.
+        description: |
+          Je>tu ne peux pas voter, ça ne m’empêche pas de m’informer et d’impliquer les gens autour de moi pour qu’eux prennent part au vote. <a href="/partager">Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨</a>
+      etranger-euro:
+        title: |
+          Je suis étranger ou citoyen européen puis-je voter ?
+        description:
+          Réponse
+      francais:
+        title: |
+          J’ai la nationalité Française, je peux.
+        description:
+          Mais comment faire ?
+
+  inscrit:
+    title: |
+      Suis-je inscrit pour voter ? 🤔
+    introduction: |
+      Pour voter il faut une carte d’électeur. La première étape est donc de vérifier si tu as une carte d’électeur.
+      Ca ressemble à ça une carte d’électeur.
+    menu-item:
+      oui-inscrit:
+        title: |
+          Je la trouve. Suis je-inscrit au bon endroit ?
+        description: |
+           <p>L’adresse est bonne c’est ok ! Ne restes plus qu’à choisir la couleur de ton vote : le premier tour c’est le  22 mai.  On t’aidera > on t’envoie un message ?</p>
+           <p>L’adresse de mon domicile n’est pas la bonne. C’est simple > fait les démarches <a href="#">ici →</a></p>
+      non-inscrit:
+        title: |
+          Non, je ne  trouve pas ma carte d’électeur.
+        description: |
+          <p>alors effectue les démarches <a href="#">ici →</a></p>
+
   partager:
     title: Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨
     stats:
@@ -166,24 +210,18 @@ fr:
     title: Voter, ça s’apprend ! 🎓
     intro: Ici on vous aide à accomplir votre devoir de citoyen.
     menu-item:
-      inscription18:
-        title: J’ai 18ans cette année ou en 2017 (même si c’est en décembre oui !) j’aurais 18 ans.
-        url: https://www.service-public.fr/particuliers/vosdroits/F1961
+      droits:
+        title: Ai-je le droit de voter ?
+        url: /droits
       inscriptionnew:
-        title: Nouvelle inscription
-        url: https://www.service-public.fr/particuliers/vosdroits/R16396
-      demenagement:
-        title: Suite à un déménagement
-        url: https://www.service-public.fr/particuliers/vosdroits/F1372
+        title: Suis-je inscrit(e) pour voter ?
+        url: /inscrit
       procuration:
         title: Vote par procuration
         url: https://www.service-public.fr/particuliers/vosdroits/F1604
-      etranger:
-        title: Français à l'étranger
-        url: https://www.service-public.fr/particuliers/vosdroits/F16904
-      droits:
-        title: Droit de vote d'un citoyen
-        url: https://www.service-public.fr/particuliers/vosdroits/F1937
+      pourquoi-donc:
+        title: Pas certain(e) d’aller voter
+        url: /pourquoi
 
   footer:
     support: stpvote.org est inspiré et supporté par voteplz.org

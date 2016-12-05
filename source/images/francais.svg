@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="132px" viewBox="0 0 156 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>francais</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="2" y="31" width="80" height="58" rx="4"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="80" height="58" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="0" y="25" width="84" height="38" rx="4"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="84" height="38" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="36" y="57" width="12" height="14" rx="4"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="14" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-677.000000, -1942.000000)">
+            <g id="franc" transform="translate(677.000000, 1942.000000)">
+                <circle id="Oval-7" fill="#F3F8FE" cx="85.5" cy="63.5" r="40.5"></circle>
+                <g id="Group-8" transform="translate(40.000000, 92.000000) rotate(-270.000000) translate(-40.000000, -92.000000) translate(39.000000, 62.000000)" fill="#1572EA" opacity="0.400000006">
+                    <rect id="Rectangle-15" x="0" y="0" width="2" height="3"></rect>
+                    <rect id="Rectangle-15" x="0" y="57" width="2" height="3"></rect>
+                </g>
+                <g id="Group-9" transform="translate(0.000000, 43.000000)">
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-2)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-1"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-4)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <rect id="Rectangle" fill="#1572EA" x="38" y="61" width="8" height="2"></rect>
+                    <rect id="d-day" fill="#1572EA" x="22" y="38" width="40" height="4" rx="2"></rect>
+                    <path d="M37.2956777,35.8140809 C37.2956777,34.4011838 37.7785594,33.2118641 38.7443372,32.2460863 C39.710115,31.2803085 40.8994346,30.7974269 42.3123318,30.7974269 C43.7252289,30.7974269 44.9145486,31.2803085 45.8803264,32.2460863 C46.8461042,33.2118641 47.3289858,34.4011838 47.3289858,35.8140809 C47.3289858,37.2269781 46.8461042,38.4162977 45.8803264,39.3820755 C44.9145486,40.3478533 43.7252289,40.830735 42.3123318,40.830735 C40.8994346,40.830735 39.710115,40.3478533 38.7443372,39.3820755 C37.7785594,38.4162977 37.2956777,37.2269781 37.2956777,35.8140809 Z M45.3974399,0 C49.2963206,0 52.4439936,1.03730133 54.8405533,3.11193512 C57.2371131,5.18656891 58.435375,8.05703208 58.435375,11.7234108 C58.435375,15.3897894 57.4070159,18.0366963 55.3502669,19.6642107 C53.2935178,21.2917252 50.3157476,22.1412392 46.4168669,22.2127783 L46.4168669,26.3099134 L37.7785642,26.3099134 L37.7785642,16.2571783 L41.3733858,16.2571783 C44.1634106,16.2571783 46.2201287,15.9352572 47.543602,15.2914053 C48.8670753,14.6475535 49.528802,13.4135226 49.528802,11.5892756 C49.528802,10.373111 49.1800542,9.38946317 48.482548,8.63830266 C47.7850418,7.88714216 46.8192785,7.51156753 45.5852291,7.51156753 C44.3511797,7.51156753 43.3854163,7.8781999 42.6879102,8.61147564 C41.990404,9.34475137 41.6416561,10.3373414 41.6416561,11.5892756 L33.0033534,11.5892756 C32.9318143,8.26270766 34.0048847,5.49955152 36.2225967,3.29972431 C38.4403086,1.0998971 41.4985591,0 45.3974399,0 Z" id="?" fill="#1572EA"></path>
+                    <rect id="d-day" fill="#1572EA" x="0" y="53" width="83" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+.wrapper.content
+  h1 = t 'droits.title'
+  ul.why
+    - t('droits.menu-item').each do |id, droits|
+      li
+        = image_tag "#{id}.svg", height: "132px"
+        h2 = droits[:title]
+        p = droits[:description]

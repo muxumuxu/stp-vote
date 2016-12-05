@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="156px" height="132px" viewBox="0 0 156 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>dignity</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M107,35 L107,17.9562624 C107,15.7526387 105.225712,13.7165332 103.037018,13.4171995 L84.9629821,10.9453294 C82.7666447,10.6449505 81,12.1930879 81,14.4008565 L81,55.0024813 C81,56.1088774 81.4493432,57.1092631 82.1756391,57.8325458 C82.8983348,58.5537029 83.9003573,59 85.0071897,59 L131,59 L131,38.990053 C131,36.7842933 129.20592,35 126.99281,35 L107,35 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="50" height="48" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="44" y="53" width="86" height="6"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="86" height="6" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <polygon id="path-5" points="91 18 108 20.375 108 37 91 37"></polygon>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="17" height="19" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="1" y="0" width="85" height="59"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="85" height="59" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <ellipse id="path-9" cx="42" cy="13" rx="13" ry="13"></ellipse>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="26" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="0" y="52" width="86" height="7"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="86" height="7" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <ellipse id="path-13" cx="107" cy="58" rx="13" ry="13"></ellipse>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="26" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <circle id="path-15" cx="107" cy="58" r="5"></circle>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="10" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+        <ellipse id="path-17" cx="25" cy="58" rx="13" ry="13"></ellipse>
+        <mask id="mask-18" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="26" height="26" fill="white">
+            <use xlink:href="#path-17"></use>
+        </mask>
+        <circle id="path-19" cx="25" cy="58" r="5"></circle>
+        <mask id="mask-20" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10" height="10" fill="white">
+            <use xlink:href="#path-19"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-904.000000, -1229.000000)">
+            <g id="time" transform="translate(904.000000, 1229.000000)">
+                <rect id="Rectangle-17" fill="#F3F8FE" x="46" y="23" width="80" height="80" rx="10"></rect>
+                <g id="Group-3" transform="translate(3.000000, 61.000000)">
+                    <use id="Combined-Shape" stroke="#1572EA" mask="url(#mask-2)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-4" fill="#1572EA" x="127" y="50" width="5" height="9" rx="2"></rect>
+                    <rect id="Rectangle-5" fill="#1572EA" x="93" y="39" width="2" height="5"></rect>
+                    <rect id="Rectangle-5" fill="#1572EA" x="130" y="44" width="2" height="5"></rect>
+                    <rect id="Rectangle-5" fill="#1572EA" x="106" y="21" width="5" height="2"></rect>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-4)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-3"></use>
+                    <use id="Rectangle-2" stroke="#1572EA" mask="url(#mask-6)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-8)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-7"></use>
+                    <g id="Group" opacity="0.300000012" transform="translate(14.000000, 15.000000)">
+                        <use id="Oval-2" stroke="#1572EA" mask="url(#mask-10)" stroke-width="4" fill="#FFFFFF" xlink:href="#path-9"></use>
+                        <rect id="Rectangle-6" fill="#1572EA" x="0" y="0" width="42" height="2"></rect>
+                        <rect id="Rectangle-6" fill="#1572EA" x="12" y="12" width="19" height="2"></rect>
+                    </g>
+                    <use id="d-day" stroke="#1572EA" mask="url(#mask-12)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-11"></use>
+                    <use id="Oval-2" stroke="#1572EA" mask="url(#mask-14)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-13"></use>
+                    <use id="Oval-2" stroke="#1572EA" mask="url(#mask-16)" stroke-width="4" fill="#1572EA" xlink:href="#path-15"></use>
+                    <use id="Oval-2" stroke="#1572EA" mask="url(#mask-18)" stroke-width="4" fill="#F3F8FE" xlink:href="#path-17"></use>
+                    <use id="Oval-2" stroke="#1572EA" mask="url(#mask-20)" stroke-width="4" fill="#1572EA" xlink:href="#path-19"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
