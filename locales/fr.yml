@@ -13,7 +13,7 @@ fr:
         title: Partager !
     aide:
       title: Besoin d'aide ?
-      link: mailto:aide@stpvote.org
+      link: mailto:salut@stpvote.org
   subnavigation:
     links:
       equipe:
@@ -49,7 +49,7 @@ fr:
         title: |
           15 vs 2 628 000 min
         description: |
-          <p>En moyenne voter prend 15min de notre précieux temps. [TODO_ICONES]</p>
+          <p>En moyenne voter prend 15min de notre précieux temps. <img src="/images/temps.svg" class="time"/></p>
           <p>Alors que si tu ne vas pas voter tu devras supporter le candidat élu (et que tu n’as pas choisis !) pendant 2 628 000 minutes.</p>
       generation:
         title: |
@@ -85,8 +85,9 @@ fr:
         title: |
           L’élection n’est pas jouée dans les sondages.
         description: |
-          <p>Tes choix ne doivent pas être influencés par les sondages.
-          Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42 millions de français en âge de voter ; et que le monde change :  nous individus sommes  plus volatiles, plus complexes. Les sondages ne gère pas la complexité de nos choix et de nos individualités. Alors Rien n’est jouer. Ne nous laissons pas voler l'élection par des statistiques ! Exprime toi ! Stp:Vote !
+          <p>Tes choix ne doivent pas être influencés par les sondages.</p>
+          <p>Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42 millions de français en âge de voter ; et que le monde change :  nous individus sommes plus volatiles, plus complexes.</p>
+          <p>Les sondages ne gère pas la complexité de nos choix et de nos individualités. Alors Rien n’est jouer. Ne nous laissons pas voler l'élection par des statistiques ! Exprime toi ! Stp:Vote !</p>
       dignity:
         title: |
           Voter c’est aussi une question de dignité
@@ -94,7 +95,7 @@ fr:
           <p>"En votant ne croyez pas que la vie va changer de façon spectaculaire, mais votre amour-propre sera plus grand, vous aurez fait votre choix et vous serez devenu citoyen dans votre pays.” </p>
           <p>Nelson Mandela dans Un long chemin vers la liberté.</p>
           <p>Il s’adresse alors aux électeurs qui voteront pour la première fois dans une élection non raciale au suffrage universel, 1994, Afrique du Sud.</p>
-          <p>Toi aussi tu as une ou plusieurs bonnes raisons d’aller voter : Partage les ! #STPVOTE</p>
+          <p>Toi aussi tu as une ou plusieurs bonnes raisons d’aller voter : <a href="/partager">Partage les ! #stpvote</a></p>
     conclusion:
       title: |
         S’abstenir ne sanctionne que la démocratie
@@ -144,15 +145,32 @@ fr:
           Je la trouve. Suis je-inscrit au bon endroit ?
         description: |
            <p>C’est à dire à l’adresse où tu vis actuellement car ton lieu de vote (le bureau de vote) dépend de cette adresse.</p>
-           <h2>1. L’adresse est correcte c’est ok !</h2>
+           <h3>1. L’adresse est correcte c’est ok !</h3>
            <p>Ne restes plus qu’à choisir la couleur de ton vote : le premier tour c’est le 22 mai ! </p>
-           <h2>2. L’adresse de mon domicile n’est pas la bonne. </h2>
-           <p>C’est simple, fait les démarches<a href="#">ici →</a></p>
+           <h3>2. L’adresse de mon domicile n’est pas la bonne. </h3>
+           <p>C’est simple, fait les démarches <a href="#">ici →</a></p>
       non-inscrit:
         title: |
           Non, je ne  trouve pas ma carte d’électeur.
         description: |
           <p>Alors effectue les démarches <a href="#">ici →</a></p>
+
+  procuration:
+    title: |
+      Je ne pourrais pas me déplacer ! 😵
+    introduction: |
+      <p>Ce n’est pas grave ! Ca se prépare !</p>
+      <p>Tu peux donner procuration c’est à dire autoriser quelqu’un a voter pour toi le jour de l’élection si tu ne penses pas pouvoir de déplacer.</p>
+    menu-item:
+      steps:
+        description: |
+           <h2>1. Choisis quelqu’un en qui tu as confiance ! Et qui vote dans la même ville que toi.</h2>
+           <h2>2. Rends-toi au commissariat près de chez toi ou de ton lieu travail</h2>
+           <p>( C’est un peu solennel certes, mais ça fait une pause dej’ originale et si tu es préparé(e) en remplissant au préalable ce formulaire (ci dessous) ça ne prendra pas trop de temps !</p>
+           <img src="/images/cerfa@2x.png" class="cerfa" title="cerfa" />
+           <a href="/images/cerfa/cerfa_14952-01.pdf" target="_blank" class="cta center">Télécharger le formulaire</a>
+           <p class="flash">Attention ! Contrairement à ce qui est souvent dit ! La personne à qui tu donnes procuration n’a PAS BESOIN de se déplacer avec toi ! Tu peux y aller seul. Elle recevra chez elle le document l’autorisant à voter pour toi.</p>
+           <h2>3. Tu peux le faire dès maintenant ! Même plusieurs mois avant l’election ! Youpi !</h2>
 
   partager:
     title: Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨
@@ -189,7 +207,7 @@ fr:
     squad:
       title: L'équipe.
       intro: Les humains qui construisent Stp:Vote pour toi.
-      contact: Des remarques, suggestions, envie de participer, contacte-nous à <a href="mailto:hello@stpvote.org">hello@stpvote.org</a>
+      contact: Des remarques, suggestions, envie de participer, contacte-nous à <a href="mailto:salut@stpvote.org">salut@stpvote.org</a>
     press:
       title: Presse.
       intro: Vous souhaitez nous contacter pour un article ? Contactez-nous à <a href="#">presse@stpvote.org</a>
@@ -233,10 +251,10 @@ fr:
         title: Suis-je inscrit(e) pour voter ?
         url: /inscrit
       procuration:
-        title: Je ne pourrais pas me déplacer!
-        url: https://www.service-public.fr/particuliers/vosdroits/F1604
+        title: Je ne pourrais pas me déplacer !
+        url: /procuration
       pourquoi-donc:
-        title: Pas certain(e) d’aller voter
+        title: Pas certain(e) d’aller voter...
         url: /pourquoi
 
   footer:
