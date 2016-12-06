@@ -5,9 +5,9 @@
       li
         = image_tag "#{id}.svg", height: "132px"
         h2 = pourquoi[:title]
-        p = pourquoi[:description]
+        = pourquoi[:description]
   h2 = t 'pourquoi.conclusion.title'
-  p = t 'pourquoi.conclusion.description'
+  = t 'pourquoi.conclusion.description'
   = link_to "/inscription", class: "cta"
     = t 'navigation.links.inscription.title'
   span.hint = t 'pourquoi.help'

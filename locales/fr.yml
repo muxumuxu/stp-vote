@@ -47,51 +47,62 @@ fr:
     menu-item:
       time:
         title: |
-          En moyenne voter prend 15min de notre précieux temps
+          15 vs 2 628 000 min
         description: |
-          (bureau de vote > isoloir > urne) Alors que si tu ne pas voter tu devras supporter le candidat élu et que tu n’as pas choisis pendant 2 628 000 minutes. 15 min vs 2 628 000 min.
+          <p>En moyenne voter prend 15min de notre précieux temps. [TODO_ICONES]</p>
+          <p>Alors que si tu ne vas pas voter tu devras supporter le candidat élu (et que tu n’as pas choisis !) pendant 2 628 000 minutes.</p>
       generation:
         title: |
           Ne laisse pas tes parents / grands parents choisir !
         description: |
-          Les retraités représentent 33% de la population française mais pèse pour 50% des votes exprimés ! outch !
+          <p>Les retraités représentent 33% de la population française mais pèse pour 50% des votes exprimés ! outch !</p>
       places:
         title: |
           Il y a plus de 50 000 bureaux de vote en France.
         description: |
-          Donc aucun des bureaux de vote n’est très loin de chez toi ! Avec Stp:vote, nous t’aiderons à trouver ton bureau de vote à l’approche de l’élection.
+          <p>Donc aucun des bureaux de vote n’est très loin de chez toi ! Avec Stp:Vote, nous t’aiderons à trouver ton bureau de vote à l’approche de l’élection.</p>
       fail:
         title: |
           Hurler après les résultats, ca ne sert à rien.
         description: |
-          No one gives a fuck anymore. C’est aussi la force de l’élection en démocratie. Ce qui fait foi c’est le suffrage et non la manifestation après élection.  Parce qu’une élection c’est le moment où chaque citoyen a la POSSIBILITÉ de s’exprimer anonyment et librement . . alors ARRÊTE DE HURLER APRES ET STP : VOTE AVANT !
+          <p>C’est aussi la force de l’élection en démocratie.</p>
+          <p>Ce qui fait foi = le suffrage, le vote !  Et non la manifestation après l’élection.</p>
+          <p>Parce qu’une élection c’est le moment où chaque citoyen a la POSSIBILITÉ de s’exprimer anonymement et librement. Alors arrête de hurler après et stp, saisis cette possibilité et vote avant !</p>
       president:
         title: |
-          Une présidente ou un président, ca a quand même pas mal de pouvoirs !
+          Un Président a de grands pouvoirs !
         description: |
-          On est souvent négatif et défaitiste lorsqu’on évoque notre pays la France. N’en demeure pas moins que nous sommes la 6ème puissance au monde (sur 193 pays reconnus par lONU). Aussi l’un des 8 pays au monde où le chef d'Etat peut déclencher l’arme nucléaire.Alors veux-tu vraiment laisser les autres choisir pour toi la/le personne avec de telles pouvoirs ?
-          Parmi les pouvoirs “extraordinaires” du président :
-          -  l’arme nucléaire
-          - chef des armées / déclarer la guerre de moins
-          - gracier et annuler une peine de justice individuelle
-          etc.
+          <p>On est souvent négatif à l’égard de notre pays. N’en demeure que nous somme la 6ème puissance au monde (sur 193 pays reconnus par l'ONU).</p>
+          <p>Le Président de la France ...</p>
+          <ul>
+            <li>est le chef des armées,</li>
+            <li>est une des 8 personnalités au monde qui peut déclencher l’arme nucléaire,</li>
+            <li>peut annuler une peine de justice (grâce)</li>
+            <li>dispose de pleins pouvoirs en temps de crise  etc.</li>
+          </ul>
+          <p>Alors veux-tu vraiment laisser les autres choisir celui ou celle qui aura tant de pouvoirs entre ses mains ?</p>
       polls:
         title: |
           L’élection n’est pas jouée dans les sondages.
         description: |
-          Tes choix ne doivent pas être influencés par les sondages.
+          <p>Tes choix ne doivent pas être influencés par les sondages.
           Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42 millions de français en âge de voter ; et que le monde change :  nous individus sommes  plus volatiles, plus complexes. Les sondages ne gère pas la complexité de nos choix et de nos individualités. Alors Rien n’est jouer. Ne nous laissons pas voler l'élection par des statistiques ! Exprime toi ! Stp:Vote !
       dignity:
         title: |
           Voter c’est aussi une question de dignité
         description: |
-          "En votant ne croyez pas que la vie va  changer de façon spectaculaire, mais votre amour-propre sera plus grand, vous aurez fait votre choix et vous serez devenu citoyen dans votre pays."  Nelson Mandela dans Un long chemin vers la liberté. Il s’adresse alors aux électeurs qui voteront pour la première dans une élection non raciale au suffrage universel, 1994,  Afrique du Sud.
-
+          <p>"En votant ne croyez pas que la vie va changer de façon spectaculaire, mais votre amour-propre sera plus grand, vous aurez fait votre choix et vous serez devenu citoyen dans votre pays.” </p>
+          <p>Nelson Mandela dans Un long chemin vers la liberté.</p>
+          <p>Il s’adresse alors aux électeurs qui voteront pour la première fois dans une élection non raciale au suffrage universel, 1994, Afrique du Sud.</p>
+          <p>Toi aussi tu as une ou plusieurs bonnes raisons d’aller voter : Partage les ! #STPVOTE</p>
     conclusion:
       title: |
-        TL;DR
+        S’abstenir ne sanctionne que la démocratie
       description: |
-        Ne pas voter ne sanctionne aucun candidat, il en avantage même certain. Ne pas voter ne sanctionne pas non plus le système,  la seule sanction est celle faite à notre système démocratique . Stp:Vote
+        <p>En regime participatif on s'exclut soi-même dès lors que l'on ne participe pas au vote. Ne pas voter ne sanctionne aucun candidat, il en avantage même certains.</p>
+        <p>Ne pas voter ne sanctionne pas non plus le “système", la seule sanction est celle faite à "notre système” : la démocratie.</p>
+
+
     help: (On te rassure, on t'accompagne à chaque étape!)
 
   droits:
@@ -100,43 +111,48 @@ fr:
     menu-item:
       18-plus:
         title: |
-          J’ai 18ans cette année ou en 2017 (même si c’est en décembre oui !) j’aurais 18 ans.
+          J’ai 18 ans cette année ou au courant de l'année 2017 (même si tu as 18 ans après l’élection,  au mois de septembre, décembre ou autre !).
         description: |
-          Tu peux voter. Inscription auto.
+          Bravo ! Tu peux voter. Ton inscription est automatique et tu recevras ta carte d’électeur par la Poste.
+          <br/><br/>
+          Sinon contacte ta mairie si tu n'as reçois rien reçu au 1er mars 2017: <a href="http://www.annuaire-mairie.fr/">annuaire mairie →</a>
       18-moins:
         title: |
           J’ai moins de 18 ans.  2017 n’est pas l’année de mes 18 ans.
         description: |
-          Je>tu ne peux pas voter, ça ne m’empêche pas de m’informer et d’impliquer les gens autour de moi pour qu’eux prennent part au vote. <a href="/partager">Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨</a>
+          Tu ne peux point voter 😔 !  Ca ne t'empêche pas de t’informer et de t'impliquer pour qu’autour de toi, chacun prenne part au vote. <a href="/partager">Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨</a>
       etranger-euro:
         title: |
-          Je suis étranger ou citoyen européen puis-je voter ?
-        description:
-          Réponse
+          Je ne suis pas citoyen Français.
+        description: |
+          Si tu n’as pas la nationalité française, et même si tu es ressortissant européen tu ne peux pas voter à l’éléction présidentielle. Mais rien ne t’empêche de te sentir citoyen et de mobiliser autour de toi pour t'impliquer changer les choses dans le pays dans lequel tu vis. <a href="/partager">Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨</a>
       francais:
         title: |
           J’ai la nationalité Française, je peux.
         description:
-          Mais comment faire ?
+          <a href="inscrit">Mais comment faire ? →</a>
 
   inscrit:
     title: |
       Suis-je inscrit pour voter ? 🤔
     introduction: |
-      Pour voter il faut une carte d’électeur. La première étape est donc de vérifier si tu as une carte d’électeur.
+      Pour voter il faut une carte d’électeur. La première étape est donc de vérifier si tu es en possession de cette carte !
       Ca ressemble à ça une carte d’électeur.
     menu-item:
       oui-inscrit:
         title: |
           Je la trouve. Suis je-inscrit au bon endroit ?
         description: |
-           <p>L’adresse est bonne c’est ok ! Ne restes plus qu’à choisir la couleur de ton vote : le premier tour c’est le  22 mai.  On t’aidera > on t’envoie un message ?</p>
-           <p>L’adresse de mon domicile n’est pas la bonne. C’est simple > fait les démarches <a href="#">ici →</a></p>
+           <p>C’est à dire à l’adresse où tu vis actuellement car ton lieu de vote (le bureau de vote) dépend de cette adresse.</p>
+           <h2>1. L’adresse est correcte c’est ok !</h2>
+           <p>Ne restes plus qu’à choisir la couleur de ton vote : le premier tour c’est le 22 mai ! </p>
+           <h2>2. L’adresse de mon domicile n’est pas la bonne. </h2>
+           <p>C’est simple, fait les démarches<a href="#">ici →</a></p>
       non-inscrit:
         title: |
           Non, je ne  trouve pas ma carte d’électeur.
         description: |
-          <p>alors effectue les démarches <a href="#">ici →</a></p>
+          <p>Alors effectue les démarches <a href="#">ici →</a></p>
 
   partager:
     title: Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨
@@ -158,7 +174,7 @@ fr:
           Tweet #stpvote !
         link: https://twitter.com/stpvote
       facebook:
-        title: Partage stp:vote !
+        title: Partage Stp:Vote !
         link: http://fb.me/stpvote
       instagram:
         title: |
@@ -169,14 +185,11 @@ fr:
     title: Notre mission est simple. 🙌🏾
     intro: |
       <p>On souhaite vraiment que tu votes... vraiment stp !</p>
-      <p>Notre but est de fournir les informations et les outils pour rendre le vote le plus simple et facile à accomplir. Nous sommes une organisation non partisane à but non lucratif basée à Bordeaux.</p>
+      <p>Notre but est de fournir les informations et les outils pour rendre le vote le plus simple et facile à accomplir. Nous sommes un collectif non partisan basé à Bordeaux.</p>
     squad:
       title: L'équipe.
-      intro: Les humains qui construisent stp:vote pour toi.
+      intro: Les humains qui construisent Stp:Vote pour toi.
       contact: Des remarques, suggestions, envie de participer, contacte-nous à <a href="mailto:hello@stpvote.org">hello@stpvote.org</a>
-    organisation:
-      title: L'organisation.
-      intro: <strong>Stp Vote</strong> association Loi 1901, [adresse + contact]
     press:
       title: Presse.
       intro: Vous souhaitez nous contacter pour un article ? Contactez-nous à <a href="#">presse@stpvote.org</a>
@@ -202,13 +215,16 @@ fr:
       title: Ajouter un lien vers stpvote.org
       description: |
         <p>Vous souhaitez aider les visiteurs de votre site web à se préparer pour les élections de 2017 ?</p>
+        <p><a href="http://stpvote.org/"><img src="http://stpvote.org/images/badge-stpvote.svg" alt="Stp:Vote" /></a></p>
         <p>Vous pouvez simplement ajouter ce bout de code :</p>
       snippet: |
-        <pre><code class="">&lt;a href="http://stpvote.org/share" class="stpvote-share-button"&gt;stp:vote.org&lt;/a&gt;&lt;script async src="//platform.stpvote.org/widgets.js" charset="utf-8"&gt;&lt;/script&gt;&lt;/code&gt;</code></pre>
+        <pre><code class="">&lt;a href="http://stpvote.org/"&gt;&lt;img src="http://stpvote.org/images/badge-stpvote.svg" alt="Stp:Vote" /&gt;&lt;/a&gt;</code></pre>
 
   inscription:
     title: Voter, ça s’apprend ! 🎓
-    intro: Ici on vous aide à accomplir votre devoir de citoyen.
+    intro: |
+      <p>Ici on vous apprend à vous exprimer.</p>
+      <p>Étape par étape vérifie si tu peux voter, est inscrit et comment effectuer les démarches simplement 😃 .</p>
     menu-item:
       droits:
         title: Ai-je le droit de voter ?
@@ -217,7 +233,7 @@ fr:
         title: Suis-je inscrit(e) pour voter ?
         url: /inscrit
       procuration:
-        title: Vote par procuration
+        title: Je ne pourrais pas me déplacer!
         url: https://www.service-public.fr/particuliers/vosdroits/F1604
       pourquoi-donc:
         title: Pas certain(e) d’aller voter
