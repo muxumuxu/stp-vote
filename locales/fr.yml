@@ -214,16 +214,16 @@ fr:
     menu-item:
       lucchaissac:
         title: Luc Chaissac
-        url: todo
-      fredcastagnac:
-        title: Fred Castagnac
-        url: todo
+        url: https://twitter.com/lucchaissac
+      mathieudebit:
+        title: Mathieu Debit
+        url: https://twitter.com/mathieudebit
       florentbarre:
         title: Florent Barre
-        url: todo
+        url: https://twitter.com/barreflorent
       audreylabuxiere:
         title: Audrey Labuxiere
-        url: todo
+        url: https://twitter.com/audreylabuxiere
 
   partenaires:
     title: Nos fantastiques partenaires !
