@@ -131,7 +131,7 @@ fr:
         title: |
           J’ai la nationalité Française, je peux.
         description:
-          <a href="inscrit">Mais comment faire ? →</a>
+          <a href="/inscrit">Mais comment faire ? →</a>
 
   inscrit:
     title: |
@@ -148,12 +148,12 @@ fr:
            <h3>1. L’adresse est correcte c’est ok !</h3>
            <p>Ne restes plus qu’à choisir la couleur de ton vote : le premier tour c’est le 22 mai ! </p>
            <h3>2. L’adresse de mon domicile n’est pas la bonne. </h3>
-           <p>C’est simple, fait les démarches <a href="#">ici →</a></p>
+           <p>C’est simple, fait les démarches <a href="https://www.service-public.fr/particuliers/vosdroits/F1372" target="_blank">ici →</a></p>
       non-inscrit:
         title: |
           Non, je ne  trouve pas ma carte d’électeur.
         description: |
-          <p>Alors effectue les démarches <a href="#">ici →</a></p>
+          <p>Alors effectue les démarches <a href="https://www.service-public.fr/particuliers/vosdroits/R16396" target="_blank">ici →</a></p>
 
   procuration:
     title: |
@@ -210,7 +210,7 @@ fr:
       contact: Des remarques, suggestions, envie de participer, contacte-nous à <a href="mailto:salut@stpvote.org">salut@stpvote.org</a>
     press:
       title: Presse.
-      intro: Vous souhaitez nous contacter pour un article ? Contactez-nous à <a href="#">presse@stpvote.org</a>
+      intro: Vous souhaitez nous contacter pour un article ? Contactez-nous à <a href="mailto:presse@stpvote.org">presse@stpvote.org</a>
     menu-item:
       lucchaissac:
         title: Luc Chaissac
