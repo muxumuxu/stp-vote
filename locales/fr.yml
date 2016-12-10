@@ -83,7 +83,7 @@ fr:
           <p>Alors veux-tu vraiment laisser les autres choisir celui ou celle qui aura tant de pouvoirs entre ses mains ?</p>
       polls:
         title: |
-          Influencéb par les sondages, tu ne seras pas !
+          Influencé par les sondages, tu ne seras pas !
         description: |
           <p>Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42,5 millions de français en âge de voter ! </p>
           <p>Aussi nous individus sommes plus complexes et volatiles.</p>
@@ -189,7 +189,7 @@ fr:
       twitter:
         title: |
           Tweet #stpvote !
-        link: https://twitter.com/home?status= %23ouijevote et %23stpvote ! Prépare-toi pour voter en 2017 en te rendant sur https://www.stpvote.org/ 🇫🇷✨🙌🏾
+        link: https://twitter.com/intent/tweet?text=%23ouijevote et %23stpvote ! Prépare-toi pour voter en 2017 en te rendant sur https://www.stpvote.org/ 🇫🇷✨🙌🏾
       facebook:
         title: Partage Stp:Vote !
         link: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stpvote.org
