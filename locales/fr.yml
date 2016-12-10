@@ -1,6 +1,6 @@
 fr:
   header:
-  flash: 🚨 Attention pour pouvoir voter en 2017, il faut avoir fait la démarche avant le 31 décembre 2016. <strong>S'inscire !</strong> 🚨
+  flash: 🚨 Attention pour pouvoir voter en 2017, il faut avoir fait la démarche avant le 31 décembre 2016. <strong>S'inscrire !</strong> 🚨
   navigation:
     links:
       ../:
@@ -21,7 +21,7 @@ fr:
       partenaires:
         title: Nos partenaires
       mentions:
-        title: Mention légales
+        title: Mentions légales
 
   intro:
     baseline: La manière la plus simple pour se préparer à voter.
@@ -83,7 +83,7 @@ fr:
           <p>Alors veux-tu vraiment laisser les autres choisir celui ou celle qui aura tant de pouvoirs entre ses mains ?</p>
       polls:
         title: |
-          Influencé par les sondages, tu ne seras pas !
+          Influencéb par les sondages, tu ne seras pas !
         description: |
           <p>Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42,5 millions de français en âge de voter ! </p>
           <p>Aussi nous individus sommes plus complexes et volatiles.</p>
@@ -177,7 +177,7 @@ fr:
       french:
         stat: 77%
         description:
-          des Français ne savent pas encore s’ils iront voter. <small>(oct. 2016)</small>
+          des Français ne savent pas encore si ils iront voter. <small>(oct. 2016)</small>
       students:
         stat: 45%
         description:
@@ -189,10 +189,10 @@ fr:
       twitter:
         title: |
           Tweet #stpvote !
-        link: https://twitter.com/stp_vote
+        link: https://twitter.com/home?status= %23ouijevote et %23stpvote ! Prépare-toi pour voter en 2017 en te rendant sur https://www.stpvote.org/ 🇫🇷✨🙌🏾
       facebook:
         title: Partage Stp:Vote !
-        link: http://fb.me/stpvote
+        link: https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.stpvote.org
       instagram:
         title: |
           Tag #stpvote !
