@@ -31,7 +31,7 @@ tagAnalyticsCNIL.CookieConsent = function() {
         // Le code HTML de la demande de consentement
         div.innerHTML =  '\
           <div id="cookie-banner-message" class="cookie-banner-message" align="center">\
-            Ce site utilise Google Analytics. En continuant à  naviguer, vous nous autorisez à  déposer un cookie à des \
+            🍪 Ce site utilise Google Analytics. En continuant à  naviguer, vous nous autorisez à  déposer un cookie à des \
             fins de mesure d\'audience. \
             <a href="javascript:tagAnalyticsCNIL.CookieConsent.showInform()" class="cookie-banner-message-link"> \
               En savoir plus ou s\'opposer.\
