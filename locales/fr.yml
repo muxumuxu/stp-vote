@@ -158,14 +158,14 @@ fr:
     title: |
       Je ne pourrai pas me déplacer ! 😵
     introduction: |
-      <p>Ce n’est pas grave ! Ca se prépare !</p>
+      <p>Ce n’est pas grave ! Ça se prépare !</p>
       <p>Tu peux donner procuration c’est à dire autoriser quelqu’un à voter pour toi le jour de l’élection si tu ne penses pas pouvoir de déplacer.</p>
     menu-item:
       steps:
         description: |
            <h2>1. Choisis quelqu’un en qui tu as confiance ! Et qui vote dans la même ville que toi.</h2>
-           <h2>2. Rends-toi au commissariat près de chez toi ou de ton lieu travail</h2>
-           <p>( C’est un peu solennel certes, mais ça fait une pause dej’ originale et si tu es préparé(e) en remplissant au préalable ce formulaire (ci-dessous) ça ne prendra pas trop de temps !</p>
+           <h2>2. Rends-toi au commissariat près de chez toi ou de ton lieu travail.</h2>
+           <p>C’est un peu solennel certes, mais ça fait une pause dej’ originale et si tu es préparé·e en remplissant au préalable ce formulaire (ci-dessous) ça ne prendra pas trop de temps !</p>
            <img src="/images/cerfa@2x.png" class="cerfa" title="cerfa" />
            <a href="/images/cerfa/cerfa_14952-01.pdf" target="_blank" class="cta center">Télécharger le formulaire</a>
            <p class="flash">Attention ! Contrairement à ce qui est souvent dit ! La personne à qui tu donnes procuration n’a PAS BESOIN de se déplacer avec toi ! Tu peux y aller seul. Elle recevra chez elle le document l’autorisant à voter pour toi.</p>
