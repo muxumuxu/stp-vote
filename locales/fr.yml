@@ -50,12 +50,12 @@ fr:
           15 vs 2 628 000 min
         description: |
           <p>En moyenne voter prend 15min de notre précieux temps. <img src="/images/temps.svg" class="time"/></p>
-          <p>Alors que si tu ne vas pas voter tu devras supporter le candidat élu (et que tu n’as pas choisis !) pendant 2 628 000 minutes.</p>
+          <p>Alors que si tu ne vas pas voter tu devras supporter le candidat élu (et que tu n’as pas choisi !) pendant 2 628 000 minutes.</p>
       generation:
         title: |
-          Ne laisse pas tes parents / grands parents choisir !
+          Ne laisse pas tes parents / grands-parents choisir !
         description: |
-          <p>Les retraités représentent 33% de la population française mais pèse pour 50% des votes exprimés ! outch !</p>
+          <p>Les retraités représentent 33% de la population française mais pèsent pour 50% des votes exprimés ! Outch !</p>
       places:
         title: |
           Il y a plus de 50 000 bureaux de vote en France.
@@ -83,27 +83,26 @@ fr:
           <p>Alors veux-tu vraiment laisser les autres choisir celui ou celle qui aura tant de pouvoirs entre ses mains ?</p>
       polls:
         title: |
-          L’élection n’est pas jouée dans les sondages.
+          Influencé par les sondages, tu ne seras pas !
         description: |
-          <p>Tes choix ne doivent pas être influencés par les sondages.</p>
-          <p>Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42 millions de français en âge de voter ; et que le monde change :  nous individus sommes plus volatiles, plus complexes.</p>
-          <p>Les sondages ne gère pas la complexité de nos choix et de nos individualités. Alors Rien n’est jouer. Ne nous laissons pas voler l'élection par des statistiques ! Exprime toi ! Stp:Vote !</p>
+          <p>Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42,5 millions de français en âge de voter ! </p>
+          <p>Aussi nous individus sommes plus complexes et volatiles.</p>
+          <p>Les sondages ne gèrent pas la complexité de nos choix et de nos individualités. Alors rien n’est jouer. Ne te laisse pas voler l'élection par des statistiques ! Exprime toi & Stp:Vote !</p>
       dignity:
         title: |
           Voter c’est aussi une question de dignité
         description: |
           <p>"En votant ne croyez pas que la vie va changer de façon spectaculaire, mais votre amour-propre sera plus grand, vous aurez fait votre choix et vous serez devenu citoyen dans votre pays.” </p>
           <p>Nelson Mandela dans Un long chemin vers la liberté.</p>
-          <p>Il s’adresse alors aux électeurs qui voteront pour la première fois dans une élection non raciale au suffrage universel, 1994, Afrique du Sud.</p>
-          <p>Toi aussi tu as une ou plusieurs bonnes raisons d’aller voter : <a href="/partager">Partage les ! #stpvote</a></p>
+          <p>Il s’adresse alors aux électeurs qui voteront pour la première fois dans une élection non-raciale au suffrage universel en 1994, Afrique du Sud.</p>
+
     conclusion:
       title: |
         S’abstenir ne sanctionne que la démocratie
       description: |
-        <p>En regime participatif on s'exclut soi-même dès lors que l'on ne participe pas au vote. Ne pas voter ne sanctionne aucun candidat, il en avantage même certains.</p>
+        <p>En régime participatif on s'exclut soi-même dès lors que l'on ne participe pas au vote. Ne pas voter ne sanctionne aucun candidat, il en avantage même certains.</p>
         <p>Ne pas voter ne sanctionne pas non plus le “système", la seule sanction est celle faite à "notre système” : la démocratie.</p>
-
-
+        <p>Toi aussi tu as une ou plusieurs bonnes raisons d’aller voter : <a href="/partager">Partage les ! #stpvote</a></p>
     help: (On te rassure, on t'accompagne à chaque étape!)
 
   droits:
@@ -116,7 +115,7 @@ fr:
         description: |
           Bravo ! Tu peux voter. Ton inscription est automatique et tu recevras ta carte d’électeur par la Poste.
           <br/><br/>
-          Sinon contacte ta mairie si tu n'as reçois rien reçu au 1er mars 2017: <a href="http://www.annuaire-mairie.fr/">annuaire mairie →</a>
+          Sinon contacte ta mairie si tu n'as rien reçu au 1er mars 2017: <a href="http://www.annuaire-mairie.fr/">annuaire mairie →</a>
       18-moins:
         title: |
           J’ai moins de 18 ans.  2017 n’est pas l’année de mes 18 ans.
@@ -135,18 +134,18 @@ fr:
 
   inscrit:
     title: |
-      Suis-je inscrit pour voter ? 🤔
+      Suis-je inscrit(e) pour voter ? 🤔
     introduction: |
       Pour voter il faut une carte d’électeur. La première étape est donc de vérifier si tu es en possession de cette carte !
-      Ca ressemble à ça une carte d’électeur.
+      Ça ressemble à ça une carte d’électeur.
     menu-item:
       oui-inscrit:
         title: |
-          Je la trouve. Suis je-inscrit au bon endroit ?
+          Je la trouve. Suis-je inscrit(e) au bon endroit ?
         description: |
            <p>C’est à dire à l’adresse où tu vis actuellement car ton lieu de vote (le bureau de vote) dépend de cette adresse.</p>
            <h3>1. L’adresse est correcte c’est ok !</h3>
-           <p>Ne restes plus qu’à choisir la couleur de ton vote : le premier tour c’est le 22 mai ! </p>
+           <p>Ne reste plus qu’à choisir la couleur de ton vote : le premier tour c’est le 22 mai ! </p>
            <h3>2. L’adresse de mon domicile n’est pas la bonne. </h3>
            <p>C’est simple, fait les démarches <a href="https://www.service-public.fr/particuliers/vosdroits/F1372" target="_blank">ici →</a></p>
       non-inscrit:
@@ -157,16 +156,16 @@ fr:
 
   procuration:
     title: |
-      Je ne pourrais pas me déplacer ! 😵
+      Je ne pourrai pas me déplacer ! 😵
     introduction: |
       <p>Ce n’est pas grave ! Ca se prépare !</p>
-      <p>Tu peux donner procuration c’est à dire autoriser quelqu’un a voter pour toi le jour de l’élection si tu ne penses pas pouvoir de déplacer.</p>
+      <p>Tu peux donner procuration c’est à dire autoriser quelqu’un à voter pour toi le jour de l’élection si tu ne penses pas pouvoir de déplacer.</p>
     menu-item:
       steps:
         description: |
            <h2>1. Choisis quelqu’un en qui tu as confiance ! Et qui vote dans la même ville que toi.</h2>
            <h2>2. Rends-toi au commissariat près de chez toi ou de ton lieu travail</h2>
-           <p>( C’est un peu solennel certes, mais ça fait une pause dej’ originale et si tu es préparé(e) en remplissant au préalable ce formulaire (ci dessous) ça ne prendra pas trop de temps !</p>
+           <p>( C’est un peu solennel certes, mais ça fait une pause dej’ originale et si tu es préparé(e) en remplissant au préalable ce formulaire (ci-dessous) ça ne prendra pas trop de temps !</p>
            <img src="/images/cerfa@2x.png" class="cerfa" title="cerfa" />
            <a href="/images/cerfa/cerfa_14952-01.pdf" target="_blank" class="cta center">Télécharger le formulaire</a>
            <p class="flash">Attention ! Contrairement à ce qui est souvent dit ! La personne à qui tu donnes procuration n’a PAS BESOIN de se déplacer avec toi ! Tu peux y aller seul. Elle recevra chez elle le document l’autorisant à voter pour toi.</p>
@@ -203,7 +202,7 @@ fr:
     title: Notre mission est simple. 🙌🏾
     intro: |
       <p>On souhaite vraiment que tu votes... vraiment stp !</p>
-      <p>Notre but est de fournir les informations et les outils pour rendre le vote le plus simple et facile à accomplir. Nous sommes un collectif non partisan basé à Bordeaux.</p>
+      <p>Notre but est de fournir les informations et les outils pour rendre le vote le plus simple et facile à accomplir. Nous sommes un collectif non-partisan basé à Bordeaux.</p>
     squad:
       title: L'équipe.
       intro: Les humains qui construisent Stp:Vote pour toi.
@@ -212,6 +211,9 @@ fr:
       title: Presse.
       intro: Vous souhaitez nous contacter pour un article ? Contactez-nous à <a href="mailto:presse@stpvote.org">presse@stpvote.org</a>
     menu-item:
+      mariealinemillot:
+        title: Marie-Aline Millot
+        url: https://twitter.com/mariealine_m?lang=fr
       lucchaissac:
         title: Luc Chaissac
         url: https://twitter.com/lucchaissac
@@ -241,8 +243,8 @@ fr:
   inscription:
     title: Voter, ça s’apprend ! 🎓
     intro: |
-      <p>Ici on vous apprend à vous exprimer.</p>
-      <p>Étape par étape vérifie si tu peux voter, est inscrit et comment effectuer les démarches simplement 😃 .</p>
+      <p>Ici on t'apprends à t'exprimer.</p>
+      <p>Étape par étape vérifie si tu peux voter, est inscrit(e) et comment effectuer les démarches simplement 😃 .</p>
     menu-item:
       droits:
         title: Ai-je le droit de voter ?
@@ -251,7 +253,7 @@ fr:
         title: Suis-je inscrit(e) pour voter ?
         url: /inscrit
       procuration:
-        title: Je ne pourrais pas me déplacer !
+        title: Je ne pourrai pas me déplacer !
         url: /procuration
       pourquoi-donc:
         title: Pas certain(e) d’aller voter...
