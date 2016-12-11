@@ -63,7 +63,7 @@ fr:
           <p>Donc aucun des bureaux de vote n’est très loin de chez toi ! Avec Stp:Vote, nous t’aiderons à trouver ton bureau de vote à l’approche de l’élection.</p>
       fail:
         title: |
-          Hurler après les résultats, ca ne sert à rien.
+          Hurler après les résultats, ça ne sert à rien.
         description: |
           <p>C’est aussi la force de l’élection en démocratie.</p>
           <p>Ce qui fait foi = le suffrage, le vote !  Et non la manifestation après l’élection.</p>
@@ -72,7 +72,7 @@ fr:
         title: |
           Un Président a de grands pouvoirs !
         description: |
-          <p>On est souvent négatif à l’égard de notre pays. N’en demeure que nous somme la 6ème puissance au monde (sur 193 pays reconnus par l'ONU).</p>
+          <p>On est souvent négatif à l’égard de notre pays. N’en demeure que nous sommes la 6ème puissance au monde (sur 193 pays reconnus par l'ONU).</p>
           <p>Le Président de la France ...</p>
           <ul>
             <li>est le chef des armées,</li>
@@ -85,9 +85,9 @@ fr:
         title: |
           Influencé par les sondages, tu ne seras pas !
         description: |
-          <p>Le sondage est une photographie à un moment donné et se fondent sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42,5 millions de français en âge de voter ! </p>
-          <p>Aussi nous individus sommes plus complexes et volatiles.</p>
-          <p>Les sondages ne gèrent pas la complexité de nos choix et de nos individualités. Alors rien n’est jouer. Ne te laisse pas voler l'élection par des statistiques ! Exprime toi & Stp:Vote !</p>
+          <p>Le sondage est une photographie à un moment donné et se fonde sur des échantillons qui oscillent en général entre 500 et 10 000 personnes. Sauf que nous sommes 42,5 millions de français en âge de voter ! </p>
+          <p>Aussi, nous, individus sommes plus complexes et volatiles.</p>
+          <p>Les sondages ne gèrent pas la complexité de nos choix et de nos individualités. Alors rien n’est joué. Ne te laisse pas voler l'élection par des statistiques ! Exprimes toi & Stp:Vote !</p>
       dignity:
         title: |
           Voter c’est aussi une question de dignité
@@ -111,16 +111,16 @@ fr:
     menu-item:
       18-plus:
         title: |
-          J’ai 18 ans cette année ou au courant de l'année 2017 (même si tu as 18 ans après l’élection,  au mois de septembre, décembre ou autre !).
+          J’ai 18 ans cette année ou au courant de l'année 2017.
         description: |
           Bravo ! Tu peux voter. Ton inscription est automatique et tu recevras ta carte d’électeur par la Poste.
           <br/><br/>
-          Sinon contacte ta mairie si tu n'as rien reçu au 1er mars 2017: <a href="http://www.annuaire-mairie.fr/">annuaire mairie →</a>
+          Sinon contacte ta mairie si tu n'as rien reçu au 1er mars 2017 : <a href="http://www.annuaire-mairie.fr/">annuaire mairie →</a>
       18-moins:
         title: |
           J’ai moins de 18 ans.  2017 n’est pas l’année de mes 18 ans.
         description: |
-          Tu ne peux point voter 😔 !  Ca ne t'empêche pas de t’informer et de t'impliquer pour qu’autour de toi, chacun prenne part au vote. <a href="/partager">Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨</a>
+          Tu ne peux point voter 😔 !  Ça ne t'empêche pas de t’informer et de t'impliquer pour qu’autour de toi, chacun prenne part au vote. <a href="/partager">Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨</a>
       etranger-euro:
         title: |
           Je ne suis pas citoyen Français.
@@ -243,8 +243,8 @@ fr:
   inscription:
     title: Voter, ça s’apprend ! 🎓
     intro: |
-      <p>Ici on t'apprends à t'exprimer.</p>
-      <p>Étape par étape vérifie si tu peux voter, est inscrit(e) et comment effectuer les démarches simplement 😃 .</p>
+      <p>Ici on t'apprend à t'exprimer.</p>
+      <p>Étape par étape vérifie si tu peux voter, tu es inscrit(e) et comment effectuer les démarches simplement 😃 .</p>
     menu-item:
       droits:
         title: Ai-je le droit de voter ?
