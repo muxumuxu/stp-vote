@@ -9,6 +9,8 @@ fr:
         title: Pourquoi ?
       inscription:
         title: Se préparer !
+      notifier:
+        title: 🔔 Alerte vote !
       partager:
         title: Partager !
     aide:
@@ -107,7 +109,7 @@ fr:
 
   notifier:
     title: |
-      🔔 du vote
+      🔔 la grande alerte du vote :
     description: |
       <p>Rappelle moi d'aller voter la veille du scrutin !</p>
     help: (On te rassure, nous aussi nous n'aimons pas les SPAMS !)
