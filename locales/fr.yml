@@ -107,9 +107,9 @@ fr:
 
   notifier:
     title: |
-      Me notifier la veille du 1er scrutin 💌 :
+      🔔 du vote
     description: |
-      <p>Me notifier la veille TODO </p>
+      <p>Rappelle moi d'aller voter la veille du scrutin !</p>
     help: (On te rassure, nous aussi nous n'aimons pas les SPAMS !)
 
   droits:

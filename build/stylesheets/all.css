@@ -10,21 +10,24 @@
 *, input {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  outline: none;
+  outline: none; }
+
+/* line 5, _common.sass */
+input.text, input.cta {
   -webkit-appearance: none; }
 
-/* line 7, _common.sass */
+/* line 8, _common.sass */
 html {
   background: #F8E71C; }
 
-/* line 10, _common.sass */
+/* line 11, _common.sass */
 html, body {
   margin: 0;
   padding: 0;
   font: 400 16px "Poppins", sans-serif;
   color: #000000; }
 
-/* line 16, _common.sass */
+/* line 17, _common.sass */
 body {
   margin: 0;
   padding: 0;
@@ -32,15 +35,15 @@ body {
   display: block;
   height: 100%; }
 
-/* line 23, _common.sass */
+/* line 24, _common.sass */
 a {
   color: rgba(0, 0, 0, 0.4);
   text-decoration: none; }
-  /* line 26, _common.sass */
+  /* line 27, _common.sass */
   a:hover {
     color: #F0343F; }
 
-/* line 29, _common.sass */
+/* line 30, _common.sass */
 .flash {
   border-bottom: 1px solid #F0343F;
   margin: auto;
@@ -48,108 +51,108 @@ a {
   color: #F0343F;
   padding: 14px 10px 12px;
   display: block; }
-  /* line 36, _common.sass */
+  /* line 37, _common.sass */
   .flash:hover {
     text-decoration: underline; }
 
-/* line 39, _common.sass */
+/* line 40, _common.sass */
 p.flash {
   border: rgba(240, 52, 63, 0.2) 1px solid;
   padding: 16px 20px;
   border-radius: 6px;
   margin: 20px auto 0 !important; }
-  /* line 44, _common.sass */
+  /* line 45, _common.sass */
   p.flash:hover {
     text-decoration: none; }
 
-/* line 47, _common.sass */
+/* line 48, _common.sass */
 nav ul {
   padding: 16px 0 6px;
   margin: 0;
   list-style: none; }
-  /* line 51, _common.sass */
+  /* line 52, _common.sass */
   nav ul.sub-navigation {
     padding: 0; }
-    /* line 53, _common.sass */
+    /* line 54, _common.sass */
     nav ul.sub-navigation a {
       text-transform: none;
       font-weight: 400; }
-  /* line 56, _common.sass */
+  /* line 57, _common.sass */
   nav ul li {
     padding: 0 12px;
     margin: 0;
     display: inline; }
-    /* line 60, _common.sass */
+    /* line 61, _common.sass */
     nav ul li a {
       text-transform: uppercase;
       font-size: 14px;
       font-weight: 700; }
 
-/* line 65, _common.sass */
+/* line 66, _common.sass */
 h2 {
   font-size: 28px;
   line-height: 34px; }
 
-/* line 69, _common.sass */
+/* line 70, _common.sass */
 p {
   line-height: 22px;
   color: rgba(0, 0, 0, 0.6); }
 
-/* line 73, _common.sass */
+/* line 74, _common.sass */
 .wrapper {
   max-width: 940px;
   margin: 0 auto; }
 
-/* line 77, _common.sass */
+/* line 78, _common.sass */
 header {
   text-align: center; }
-  /* line 79, _common.sass */
+  /* line 80, _common.sass */
   header .logo {
     margin: 70px auto 0;
     display: block; }
 
-/* line 83, _common.sass */
+/* line 84, _common.sass */
 footer {
   text-align: center;
   margin: 60px 0 0;
   padding: 0 0 60px; }
-  /* line 87, _common.sass */
+  /* line 88, _common.sass */
   footer .logo-small {
     width: 112px;
     margin: 40px 0 10px; }
-  /* line 90, _common.sass */
+  /* line 91, _common.sass */
   footer .support {
     display: block;
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 1px; }
 
-/* line 96, _common.sass */
+/* line 97, _common.sass */
 .intro {
   text-align: center;
   margin: 0 0 80px; }
-  /* line 99, _common.sass */
+  /* line 100, _common.sass */
   .intro h1 {
     max-width: 540px;
     margin: 30px auto 0;
     line-height: 42px; }
 
-/* line 104, _common.sass */
+/* line 105, _common.sass */
 .menu {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between; }
-  /* line 109, _common.sass */
+  /* line 110, _common.sass */
   .menu.medium {
     margin: 40px 0 0; }
-    /* line 111, _common.sass */
+    /* line 112, _common.sass */
     .menu.medium .menu-item {
       max-width: 270px;
       margin-bottom: 20px;
       text-align: center;
       padding-bottom: 40px; }
-  /* line 116, _common.sass */
+  /* line 117, _common.sass */
   .menu .menu-item {
     max-width: 260px;
     color: black;
@@ -157,18 +160,18 @@ footer {
     padding: 30px 20px 20px;
     box-shadow: 0px 0px 0px 1px rgba(36, 34, 34, 0.04), 0px 1px 6px 0px rgba(0, 0, 0, 0.1);
     border-radius: 10px; }
-    /* line 123, _common.sass */
+    /* line 124, _common.sass */
     .menu .menu-item:hover {
       box-shadow: 0px 0px 0px 2px #F8E71C; }
-    /* line 125, _common.sass */
+    /* line 126, _common.sass */
     .menu .menu-item h2 {
       margin: 12px 0 8px;
       padding: 0;
       font-size: 26px; }
-    /* line 129, _common.sass */
+    /* line 130, _common.sass */
     .menu .menu-item p {
       margin: 0 0 20px; }
-    /* line 131, _common.sass */
+    /* line 132, _common.sass */
     .menu .menu-item .cta {
       display: block;
       border-radius: 5px;
@@ -178,64 +181,64 @@ footer {
       text-align: center;
       padding: 14px 0 12px; }
 
-/* line 140, _common.sass */
+/* line 141, _common.sass */
 .content {
   max-width: 640px; }
-  /* line 142, _common.sass */
+  /* line 143, _common.sass */
   .content h1 {
     font-size: 50px;
     line-height: 58px; }
-  /* line 145, _common.sass */
+  /* line 146, _common.sass */
   .content p + h2 {
     margin-top: 60px; }
-  /* line 147, _common.sass */
+  /* line 148, _common.sass */
   .content p {
     font-size: 20px;
     line-height: 32px; }
-    /* line 150, _common.sass */
+    /* line 151, _common.sass */
     .content p.elect {
       margin-bottom: 0; }
-    /* line 152, _common.sass */
+    /* line 153, _common.sass */
     .content p span {
       color: black; }
-    /* line 154, _common.sass */
+    /* line 155, _common.sass */
     .content p a {
       color: #F0343F; }
-  /* line 156, _common.sass */
+  /* line 157, _common.sass */
   .content .carte-electeur {
     position: relative;
     left: -120px; }
-  /* line 159, _common.sass */
+  /* line 160, _common.sass */
   .content .cerfa {
     position: relative;
     left: -120px;
     width: 880px; }
-  /* line 163, _common.sass */
+  /* line 164, _common.sass */
   .content .time {
     margin-top: 0 !important; }
-  /* line 165, _common.sass */
+  /* line 166, _common.sass */
   .content ul {
     list-style: none;
     margin-left: 0;
     margin-bottom: 60px;
     padding-left: 0; }
-    /* line 170, _common.sass */
+    /* line 171, _common.sass */
     .content ul.why {
       margin-bottom: 0; }
-      /* line 172, _common.sass */
+      /* line 173, _common.sass */
       .content ul.why h3 {
         margin-bottom: 0;
         font-size: 22px; }
-      /* line 175, _common.sass */
+      /* line 176, _common.sass */
       .content ul.why p {
         margin-bottom: 20px; }
-      /* line 177, _common.sass */
+      /* line 178, _common.sass */
       .content ul.why img {
         margin-top: 50px; }
-      /* line 179, _common.sass */
+      /* line 180, _common.sass */
       .content ul.why ul {
         margin-bottom: 20px; }
-        /* line 181, _common.sass */
+        /* line 182, _common.sass */
         .content ul.why ul li {
           padding-left: 24px;
           font-size: 20px;
@@ -243,7 +246,7 @@ footer {
           opacity: 0.6;
           margin-bottom: 14px;
           background: url(../images/dot.svg) no-repeat 3px 10px; }
-    /* line 188, _common.sass */
+    /* line 189, _common.sass */
     .content ul.stats {
       display: flex;
       flex-direction: row;
@@ -254,60 +257,60 @@ footer {
       border-top: 1px solid #ededed;
       border-bottom: 1px solid #ededed;
       padding: 70px 0 30px; }
-      /* line 198, _common.sass */
+      /* line 199, _common.sass */
       .content ul.stats li {
         max-width: 200px;
         padding: 0 50px; }
-        /* line 201, _common.sass */
+        /* line 202, _common.sass */
         .content ul.stats li strong {
           display: block;
           color: #F0343F;
           line-height: 60px;
           font-size: 60px; }
-        /* line 206, _common.sass */
+        /* line 207, _common.sass */
         .content ul.stats li p {
           margin-bottom: 20px; }
-          /* line 208, _common.sass */
+          /* line 209, _common.sass */
           .content ul.stats li p small {
             display: block;
             font-size: 12px; }
-    /* line 211, _common.sass */
+    /* line 212, _common.sass */
     .content ul.social {
       display: flex;
       flex-direction: row;
       flex-wrap: wrap;
       margin-top: 70px;
       justify-content: space-between; }
-      /* line 217, _common.sass */
+      /* line 218, _common.sass */
       .content ul.social li {
         width: 30%; }
-        /* line 219, _common.sass */
+        /* line 220, _common.sass */
         .content ul.social li img {
           display: block;
           float: none;
           margin: auto; }
-        /* line 223, _common.sass */
+        /* line 224, _common.sass */
         .content ul.social li .cta {
           display: block;
           font-size: 16px;
           padding: 16px 0 14px; }
-    /* line 227, _common.sass */
+    /* line 228, _common.sass */
     .content ul li {
       margin: 0;
       overflow: hidden; }
-      /* line 230, _common.sass */
+      /* line 231, _common.sass */
       .content ul li.steps {
         overflow: visible !important; }
-      /* line 232, _common.sass */
+      /* line 233, _common.sass */
       .content ul li img {
         display: block; }
-      /* line 234, _common.sass */
+      /* line 235, _common.sass */
       .content ul li h2 {
         margin: 30px 0 10px; }
-      /* line 236, _common.sass */
+      /* line 237, _common.sass */
       .content ul li p {
         margin: 0 0 60px; }
-  /* line 238, _common.sass */
+  /* line 239, _common.sass */
   .content .cta {
     border-radius: 5px;
     border: 0;
@@ -318,27 +321,27 @@ footer {
     text-align: center;
     padding: 16px 24px 14px;
     display: inline-block; }
-    /* line 248, _common.sass */
+    /* line 249, _common.sass */
     .content .cta.center {
       display: block; }
-  /* line 250, _common.sass */
+  /* line 251, _common.sass */
   .content .hint {
     color: rgba(0, 0, 0, 0.5);
     display: block;
     margin: 20px 0 0; }
-  /* line 254, _common.sass */
+  /* line 255, _common.sass */
   .content .team {
     overflow: hidden; }
-    /* line 256, _common.sass */
+    /* line 257, _common.sass */
     .content .team img {
       display: block;
       border-radius: 40px;
       float: left;
       margin: 0 10px 10px 0; }
-  /* line 261, _common.sass */
+  /* line 262, _common.sass */
   .content .code {
     margin: 90px 0 0; }
-    /* line 263, _common.sass */
+    /* line 264, _common.sass */
     .content .code .snippet {
       font-family: monospace;
       background: #ededed;
@@ -347,19 +350,35 @@ footer {
       color: #333;
       font-size: 18px;
       line-height: 24px; }
-      /* line 271, _common.sass */
+      /* line 272, _common.sass */
       .content .code .snippet pre {
         white-space: pre-wrap; }
 
-/* line 275, _common.sass */
+/* line 276, _common.sass */
 form .asterisk {
   color: #F0343F; }
-/* line 277, _common.sass */
+/* line 278, _common.sass */
+form strong {
+  margin: 30px 0 2px;
+  display: block;
+  font-weight: 600; }
+/* line 282, _common.sass */
+form ul {
+  margin: 10px 0 0 !important;
+  padding-bottom: 0; }
+  /* line 286, _common.sass */
+  form ul li label {
+    display: inline-block;
+    margin: 0 0 10px 10px;
+    cursor: pointer;
+    position: relative;
+    top: 2px; }
+/* line 292, _common.sass */
 form label {
   display: block;
   margin: 30px 0 2px; }
-/* line 280, _common.sass */
-form input {
+/* line 295, _common.sass */
+form input.text {
   border-radius: 5px;
   width: calc(100% - 48px);
   border: 1px solid rgba(0, 0, 0, 0.3);
@@ -371,75 +390,75 @@ form input {
   display: inline-block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; }
-  /* line 292, _common.sass */
-  form input:focus {
+  /* line 307, _common.sass */
+  form input.text:focus {
     border-color: #F0343F; }
-/* line 294, _common.sass */
+/* line 309, _common.sass */
 form .cta {
-  margin: 30px 0 0;
+  margin: 20px 0 0;
   width: 100%;
   cursor: pointer; }
-  /* line 298, _common.sass */
+  /* line 313, _common.sass */
   form .cta:hover {
     opacity: 0.9; }
 
 @media screen and (max-width: 900px) {
-  /* line 305, _common.sass */
+  /* line 320, _common.sass */
   header, footer, .intro {
     padding-left: 10px;
     padding-right: 10px; }
 
-  /* line 308, _common.sass */
+  /* line 323, _common.sass */
   .flash {
     margin-left: -10px;
     margin-right: -10px; }
 
-  /* line 313, _common.sass */
+  /* line 328, _common.sass */
   nav ul li {
     padding: 0 6px; }
 
-  /* line 317, _common.sass */
+  /* line 332, _common.sass */
   .menu.medium .menu-item {
     max-width: 100%;
     width: 100%; }
-  /* line 320, _common.sass */
+  /* line 335, _common.sass */
   .menu .menu-item {
     box-shadow: none;
     margin: 0 0 10px;
     max-width: 100%; }
-    /* line 324, _common.sass */
+    /* line 339, _common.sass */
     .menu .menu-item:hover {
       box-shadow: none; }
 
-  /* line 326, _common.sass */
+  /* line 341, _common.sass */
   .content {
     padding: 0 16px; }
-    /* line 328, _common.sass */
+    /* line 343, _common.sass */
     .content h1 {
       font-size: 40px; }
-    /* line 330, _common.sass */
+    /* line 345, _common.sass */
     .content .carte-electeur, .content .cerfa {
       width: 100%;
       left: 0; }
-    /* line 333, _common.sass */
+    /* line 348, _common.sass */
     .content ul {
       list-style: none;
       margin-left: 0;
       margin-bottom: 0;
       padding-left: 0; }
-      /* line 339, _common.sass */
+      /* line 354, _common.sass */
       .content ul.social li {
         width: 100%;
         margin-bottom: 60px; }
-      /* line 342, _common.sass */
+      /* line 357, _common.sass */
       .content ul li {
         margin: 0;
         overflow: hidden; }
-        /* line 345, _common.sass */
+        /* line 360, _common.sass */
         .content ul li img {
           float: none;
           display: block; }
-        /* line 348, _common.sass */
+        /* line 363, _common.sass */
         .content ul li p {
           margin: 10px 0 40px; } }
 /* line 1, _cookie-banner.sass */

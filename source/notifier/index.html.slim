@@ -10,13 +10,25 @@
           label for="mce-EMAIL" 
             | Email
             span.asterisk *
-          input#mce-EMAIL.required.email name="EMAIL" type="email" value="" /
+          input.text#mce-EMAIL.required.email name="EMAIL" type="email" value="" /
         .mc-field-group.size1of2
-          label for="mce-MMERGE2"  Numéro de téléphone
-          input#mce-MMERGE2 name="MMERGE2" type="tel" value="" /
+          label for="mce-MMERGE2"  Téléphone
+          input.text#mce-MMERGE2 name="MMERGE2" type="tel" value="" /
         .mc-field-group
           label for="mce-FNAME"  Prénom
-          input#mce-FNAME name="FNAME" type="text" value="" /
+          input.text#mce-FNAME name="FNAME" type="text" value="" /
+        .mc-field-group.input-group
+          strong Me le rappeler :
+          ul
+            li
+              input#mce-MMERGE3-0 name="MMERGE3" type="radio" value=("Gentiment ❤️") /
+              label for="mce-MMERGE3-0"  Gentiment ❤️
+            li
+              input#mce-MMERGE3-1 name="MMERGE3" type="radio" value=("Avec autorité") /
+              label for="mce-MMERGE3-1"  Avec autorité
+            li
+              input#mce-MMERGE3-2 name="MMERGE3" type="radio" value=("Radio Londres") /
+              label for="mce-MMERGE3-2"  Radio Londres
         #mce-responses.clear
           #mce-error-response.response style="display:none" 
           #mce-success-response.response style="display:none" 
@@ -25,5 +37,7 @@
           input name="b_a09106db724437a3c172c4e73_fe2935407c" tabindex="-1" type="text" value="" /
         .clear
           input#mc-embedded-subscribe.button.cta name="subscribe" type="submit" value="Me notifier" /
+  /! End mc_embed_signup
+
   /! End mc_embed_signup
   span.hint = t 'notifier.help'
