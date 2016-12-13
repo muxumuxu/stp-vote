@@ -1,0 +1,29 @@
+.wrapper.content
+  h1 = t 'notifier.title'
+  = t 'notifier.description'
+  
+  /! Begin MailChimp Signup Form
+  #mc_embed_signup
+    form#mc-embedded-subscribe-form.validate action="//stpvote.us14.list-manage.com/subscribe/post?u=a09106db724437a3c172c4e73&amp;id=fe2935407c" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank" 
+      #mc_embed_signup_scroll
+        .mc-field-group
+          label for="mce-EMAIL" 
+            | Email
+            span.asterisk *
+          input#mce-EMAIL.required.email name="EMAIL" type="email" value="" /
+        .mc-field-group.size1of2
+          label for="mce-MMERGE2"  Numéro de téléphone
+          input#mce-MMERGE2 name="MMERGE2" type="text" value="" /
+        .mc-field-group
+          label for="mce-FNAME"  Prénom
+          input#mce-FNAME name="FNAME" type="text" value="" /
+        #mce-responses.clear
+          #mce-error-response.response style="display:none" 
+          #mce-success-response.response style="display:none" 
+        /! real people should not fill this in and expect good things - do not remove this or risk form bot signups
+        div aria-hidden="true" style=("position: absolute; left: -5000px;") 
+          input name="b_a09106db724437a3c172c4e73_fe2935407c" tabindex="-1" type="text" value="" /
+        .clear
+          input#mc-embedded-subscribe.button.cta name="subscribe" type="submit" value="Me notifier" /
+  /! End mc_embed_signup
+  span.hint = t 'notifier.help'

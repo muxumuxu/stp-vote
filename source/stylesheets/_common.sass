@@ -1,6 +1,7 @@
-*
+*, input
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
+  outline: none
 
 html
   background: #F8E71C
@@ -235,6 +236,7 @@ footer
         margin: 0 0 60px
   .cta
     border-radius: 5px
+    border: 0
     color: white
     background: $color-link
     font-weight: 700
@@ -267,6 +269,36 @@ footer
       line-height: 24px
       pre
         white-space: pre-wrap
+
+form
+  .asterisk
+    color: $color-link
+  label
+    display: block
+    margin: 30px 0 2px
+  input
+    border-radius: 5px
+    width: calc(100% - 48px)
+    border: 1px solid rgba(0, 0, 0, 0.3)
+    color: black
+    background: white
+    font-weight: 400
+    font-size: 20px
+    padding: 16px 24px 14px
+    display: inline-block
+    -webkit-font-smoothing: antialiased
+    -moz-osx-font-smoothing: grayscale
+    &:focus
+      border-color: $color-link
+  .cta
+    margin: 30px 0 0
+    width: 100%
+    cursor: pointer
+    &:hover
+      opacity: 0.9
+
+
+
 
 @media screen and (max-width: 900px)
   header, footer, .intro

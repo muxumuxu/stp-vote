@@ -105,6 +105,13 @@ fr:
         <p>Toi aussi tu as une ou plusieurs bonnes raisons d’aller voter : <a href="/partager">Partage les ! #stpvote</a></p>
     help: (On te rassure, on t'accompagne à chaque étape!)
 
+  notifier:
+    title: |
+      Me notifier la veille du 1er scrutin 💌 :
+    description: |
+      <p>Me notifier la veille TODO </p>
+    help: (On te rassure, nous aussi nous n'aimons pas les SPAMS !)
+
   droits:
     title: |
       Ai-je le droit d'aller voter ? 🤔
