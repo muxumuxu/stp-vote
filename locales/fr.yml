@@ -3,7 +3,7 @@ fr:
   flash: |
     🚨 Attention pour pouvoir voter en 2017, il faut avoir fait la démarche avant le 31 décembre 2016. <strong><a href="/inscription">S'inscrire !</a></strong> 🚨
     <br/>
-    ✍🏽 Signe la pétition en ligne pour repousser la date limite d'inscription. <strong><a href="https://www.change.org/p/ministre-de-l-int%C3%A8rieur-repousser-la-date-limite-d-inscription-sur-les-listes-%C3%A9lectorales-pour-2017" target="_blank">Signer !</a></strong> ✍🏽 
+    ✍🏽 Signe la pétition en ligne pour repousser la date limite d'inscription. <strong><a href="https://www.change.org/p/ministre-de-l-int%C3%A8rieur-repousser-la-date-limite-d-inscription-sur-les-listes-%C3%A9lectorales-pour-2017" target="_blank">Signer !</a></strong> ✍🏽
   navigation:
     links:
       ../:
@@ -157,7 +157,7 @@ fr:
         description: |
            <p>C’est à dire à l’adresse où tu vis actuellement car ton lieu de vote (le bureau de vote) dépend de cette adresse.</p>
            <h3>1. L’adresse est correcte c’est ok !</h3>
-           <p>Ne reste plus qu’à choisir la couleur de ton vote : le premier tour c’est le 22 mai ! </p>
+           <p>Ne reste plus qu’à choisir la couleur de ton vote : le premier tour c’est le 23 avril ! </p>
            <h3>2. L’adresse de mon domicile n’est pas la bonne. </h3>
            <p>C’est simple, fait les démarches <a href="https://www.service-public.fr/particuliers/vosdroits/F1372" target="_blank">ici →</a></p>
       non-inscrit:
