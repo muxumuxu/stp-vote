@@ -123,7 +123,7 @@ fr:
     menu-item:
       18-plus:
         title: |
-          J’ai 18 ans cette année ou la veille du 1er tour de scrutin en 2017.
+          J’ai 18 ans cette année ou la veille du 1er tour de scrutin de l'élection présidentielle le 22 avril 2017 ou législative le 11 juin 2017.
         description: |
           Bravo ! Tu peux voter. Ton inscription est automatique et tu recevras ta carte d’électeur par la Poste.
           <br/><br/>
@@ -135,12 +135,12 @@ fr:
           Tu ne peux point voter 😔 !  Ça ne t'empêche pas de t’informer et de t'impliquer pour qu’autour de toi, chacun prenne part au vote. <a href="/partager">Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨</a>
       etranger-euro:
         title: |
-          Je ne suis pas citoyen Français.
+          Je ne suis pas citoyen français.
         description: |
           Si tu n’as pas la nationalité française, et même si tu es ressortissant européen tu ne peux pas voter à l’éléction présidentielle. Mais rien ne t’empêche de te sentir citoyen et de mobiliser autour de toi pour t'impliquer changer les choses dans le pays dans lequel tu vis. <a href="/partager">Partager Stp:Vote c’est déjà un premier acte citoyen ! ✨</a>
       francais:
         title: |
-          J’ai la nationalité Française, je peux.
+          J’ai la nationalité française, je peux.
         description:
           <a href="/inscrit">Mais comment faire ? →</a>
 
