@@ -405,69 +405,89 @@ form .cta {
   form .cta:hover {
     opacity: 0.9; }
 
+/* line 318, _common.sass */
+ul.tweets {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between; }
+  /* line 323, _common.sass */
+  ul.tweets li {
+    width: 48%; }
+
 @media screen and (max-width: 900px) {
-  /* line 322, _common.sass */
+  /* line 329, _common.sass */
   header, footer, .intro {
     padding-left: 10px;
     padding-right: 10px; }
 
-  /* line 325, _common.sass */
+  /* line 332, _common.sass */
   .flash {
     margin-left: -10px;
     margin-right: -10px; }
 
-  /* line 330, _common.sass */
+  /* line 337, _common.sass */
   nav ul li {
     padding: 0 6px; }
 
-  /* line 334, _common.sass */
+  /* line 341, _common.sass */
   .menu.medium .menu-item {
     max-width: 100%;
     width: 100%; }
-  /* line 337, _common.sass */
+  /* line 344, _common.sass */
   .menu .menu-item {
     box-shadow: none;
     margin: 0 0 10px;
     max-width: 100%; }
-    /* line 341, _common.sass */
+    /* line 348, _common.sass */
     .menu .menu-item:hover {
       box-shadow: none; }
 
-  /* line 343, _common.sass */
+  /* line 350, _common.sass */
   .code {
     overflow: hidden; }
 
-  /* line 345, _common.sass */
+  /* line 352, _common.sass */
   .content {
     padding: 0 16px; }
-    /* line 347, _common.sass */
+    /* line 354, _common.sass */
     .content h1 {
       font-size: 40px; }
-    /* line 349, _common.sass */
+    /* line 356, _common.sass */
     .content .carte-electeur, .content .cerfa {
       width: 100%;
       left: 0; }
-    /* line 352, _common.sass */
+    /* line 359, _common.sass */
     .content ul {
       list-style: none;
       margin-left: 0;
       margin-bottom: 0;
       padding-left: 0; }
-      /* line 358, _common.sass */
+      /* line 365, _common.sass */
       .content ul.social li {
         width: 100%;
         margin-bottom: 60px; }
-      /* line 361, _common.sass */
+      /* line 368, _common.sass */
       .content ul li {
         margin: 0;
         overflow: hidden; }
-        /* line 364, _common.sass */
+        /* line 371, _common.sass */
         .content ul li img {
           float: none;
           display: block; }
-        /* line 367, _common.sass */
+        /* line 374, _common.sass */
         .content ul li p {
-          margin: 10px 0 40px; } }
+          margin: 10px 0 40px; }
+
+  /* line 377, _common.sass */
+  ul.tweets {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between; }
+    /* line 382, _common.sass */
+    ul.tweets li {
+      width: 100%; } }
 /* line 1, _cookie-banner.sass */
 .cookie-banner-message {
   background-color: #333;
